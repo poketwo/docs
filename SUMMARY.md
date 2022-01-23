@@ -5,15 +5,25 @@
 
 ## Basics
 
+* [Inviting Pokétwo](basics/inviting-poketwo.md)
 * [Spawning & Catching](basics/spawning-and-catching.md)
 * [Viewing Your Pokémon](basics/viewing-your-pokemon.md)
-* [Search Filters](basics/search-filters.md)
 * [Evolving Pokémon](basics/evolving-pokemon.md)
-* [The Pokédex](basics/the-pokedex.md)
+
+## Intermediate Topics
+
+* [Search Filters](intermediate-topics/search-filters.md)
+* [Quests](intermediate-topics/quests.md)
+* [Events](intermediate-topics/events.md)
 
 ## Economy
 
-* [Pokécoins & Shards](economy/pokecoins-and-shards.md)
+* [Currencies & Items](economy/currencies-and-items.md)
 * [Trading](economy/trading.md)
 * [The Market](economy/the-market.md)
 * [Auctions](economy/auctions.md)
+
+## Battling
+
+* [Moves & Movesets](battling/moves-and-movesets.md)
+* [Battles](battling/battles.md)
