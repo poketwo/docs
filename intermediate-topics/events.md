@@ -16,7 +16,7 @@ Different types of events include:
 
 These events will entail the community catching as many Pokémon as they can to receive as many rewards as possible. In these events, different boxes will be dropped, such as the one below, which can be opened by the user whenever they please. Usually, we give another few days after the event has ended for users to open their boxes, however if the user does not open their boxes in the time given, they will be lost.
 
-![Christmas event, 2021](<../.gitbook/assets/image (13).png>) ![Box being dropped from a caught Pokémon](<../.gitbook/assets/image (1).png>)
+![Christmas event, 2021](<../.gitbook/assets/image (13) (1).png>) ![Box being dropped from a caught Pokémon](<../.gitbook/assets/image (1).png>)
 
 **-Spawn Events-**
 
@@ -28,11 +28,11 @@ These events mean that the community have to catch as many Pokémon as they can 
 ****\
 ****This event involved quests, the only event so far which has been this way. The community had to complete a set of quests to earn candies, which could be traded in for multiple things. With enough candies, you could pick from Halloween crate boxes, embeds, and Shadow Lugia (which also spawned very rarely normally). A badge was awarded to those who completed every quest.
 
-![Halloween Event 2020 quests](<../.gitbook/assets/image (11).png>)
+![Halloween Event 2020 quests](<../.gitbook/assets/image (11) (1).png>)
 
 ![Halloween Event 2020 Shop](<../.gitbook/assets/image (10).png>)
 
-![Halloween Event 2020's primary event Pokémon, Shadow Lugia](<../.gitbook/assets/image (12).png>)
+![Halloween Event 2020's primary event Pokémon, Shadow Lugia](<../.gitbook/assets/image (12) (1).png>)
 
 **-What are 'Embeds' exactly?-**
 
