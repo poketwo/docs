@@ -17,7 +17,7 @@ The following are the basic auction commands :\
 * The auction will last for 12 hours
 * 1000pc starting bid
 * 100pc bid increment\
-  ![](<../.gitbook/assets/image (12).png>)\
+  ![](<../.gitbook/assets/image (22).png>)\
   \
 
 
@@ -38,7 +38,7 @@ You can use this command to change the starting bid of your own auction if no on
   Searching your own auctions
 * P!a i (auction id) \
   To check more spesific detail about an auction. Including the highest bidder, the iv of the pokemon, etc. \
-  ![](<../.gitbook/assets/image (13).png>)
+  ![](<../.gitbook/assets/image (25).png>)
 * P!a s --bids\
   Using this command, you can see the auctions where you're the highest bidder.
 * P!a s --o bid+/-\
@@ -59,7 +59,7 @@ Ex. P!a bid 103483 12000
 Do note that **you cant cancel your bid**, so always double-check!
 
 Auction ID are the numbers on the left side when you're searching for auctions\
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 \
 \

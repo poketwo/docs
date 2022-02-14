@@ -30,7 +30,7 @@ These events mean that the community have to catch as many Pokémon as they can 
 
 ![Halloween Event 2020 quests](<../.gitbook/assets/image (11) (1).png>)
 
-![Halloween Event 2020 Shop](<../.gitbook/assets/image (10).png>)
+![Halloween Event 2020 Shop](<../.gitbook/assets/image (10) (1).png>)
 
 ![Halloween Event 2020's primary event Pokémon, Shadow Lugia](<../.gitbook/assets/image (12) (1).png>)
 
@@ -40,32 +40,32 @@ To answer simply, an embed is the different colored bar on the left side of Pok�
 You can use embed colors and change them (if you have one) using **p!embedcolor \<Pokémon ID> <#hex color>**. The 'embedcolor' part in the command can be shortened to 'ec'. So, for example, you can write **p!ec 23 #f34e06.**\
 _(For more information on how to use embed colors if you have one, go_ [_here_](search-filters.md)_)._
 
-![Changing an embed color example](<../.gitbook/assets/image (5).png>)
+![Changing an embed color example](<../.gitbook/assets/image (5) (1).png>)
 
-!['Embed' Pokémon example, with a green embed](<../.gitbook/assets/image (15).png>)
+!['Embed' Pokémon example, with a green embed](<../.gitbook/assets/image (15) (1).png>)
 
 **-The Very First Event-**
 
 This event was released before Pokétwo started getting popular. The event was an invite event where the community at that time had to invite as many people as possible to the Pokétwo Offical Server to earn the best rewards possible. Not expecting the bot to grow so much, there were only 10 Ash's Greninjas handed out, and some Costume Pikachus. Now the bot has grown, all of these Pokémon are extremely rare and worth millions of Pokécoins as they are so hard to find. None of these Pokémon spawn normally.&#x20;
 
 ![Ash's Greninja from Pokétwo's first event, 2020.
-(The '13 caught' are regular Greninjas).](<../.gitbook/assets/image (3).png>)
+(The '13 caught' are regular Greninjas).](<../.gitbook/assets/image (3) (1).png>)
 
 **-April Fools Day, 2020-**
 
 To many of the community, this was the most fun and hilarious event we've had yet. We invited random (but trusted) members of the community to get together and form a group of artists, no matter if they had experience or not, to redraw every single catchable Pokémon in the Pokédex. Over the course of 2 days we managed to recreate them all, and release them to the rest of the community, changing every single Pokémon spawn. Of course, all of these new versions of Pokémon ranged in style. All of the artists who contributed earned a designated green role in Pokétwo Official Server.
 
-![Yveltal, drawn by BlueLego#2332](<../.gitbook/assets/image (6).png>)
+![Yveltal, drawn by BlueLego#2332](<../.gitbook/assets/image (6) (1).png>)
 
-![Complete Zygarde, drawn by bubblestann#3132](<../.gitbook/assets/image (4).png>)
+![Complete Zygarde, drawn by bubblestann#3132](<../.gitbook/assets/image (4) (1).png>)
 
-![Bidoof, drawn by Cobey-KunIIThe Midnight Soul#0465](<../.gitbook/assets/image (7).png>)
+![Bidoof, drawn by Cobey-KunIIThe Midnight Soul#0465](<../.gitbook/assets/image (7) (1).png>)
 
 **-Médecins Sans Frontières / Doctors Without Borders Fundraiser Event-**
 
 This event, as the name suggests, was a fundraiser for the Doctors Without Borders charity. The Pokémon for this event was United Pikachu. Pokétwo's overall donation goal was $10,000. Staggeringly, this goal was met just one day after the event was released. There were different smaller goals within the big goal that opened up different rewards for everyone who donated, these included Pokécoins and an increasing amount of Shiny United Pikachus (randomly given away). Everyone who donated $15 or more was awarded with one United Pikachu. At the end of the event, every donor was awarded a special badge to commemorate. In the end, we all managed to raise over $35,000, over 3 times our original goal, it goes without saying we were totally mindblown by the generosity of the community! _(For more info on MSF, go to_ [_https://www.msf.org/_](https://www.msf.org)_)._
 
-![United Pikachu for the fundraiser event for MSF.](<../.gitbook/assets/image (2).png>)
+![United Pikachu for the fundraiser event for MSF.](<../.gitbook/assets/image (2) (1).png>)
 
 _**-Every individual event, and their Pokémon-**_
 
