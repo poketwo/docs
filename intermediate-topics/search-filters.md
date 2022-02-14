@@ -459,9 +459,9 @@ Some filters can also be used more than once in a command to filter with a wider
 
 All the filters in alphabetical order.
 
-> Index
+[Index](search-filters.md#contents)
 
-#### --alolan
+> #### --alolan
 
 > Filter for regional variant of pokémon that come from the Alola region and identify as alolan forms.
 
