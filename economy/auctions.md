@@ -4,6 +4,10 @@ description: Basic auction information and commands.
 
 # Auctions
 
+{% hint style="warning" %}
+This site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
+{% endhint %}
+
 Pokétwo auctions are essentially public sales of a pokémon, where the pokémon is sold to the highest bidder. After an auction is started, people can bid on the auction. The first person who bid on an auction can bid anywhere higher or the same as the starting bid (SB). The next person who bid would need to bid \<current bid (CB)+ bid increment (BI)> and so on.\
 \
 At the moment, auctions are only available on the Official Poketwo Community server.  \
@@ -17,7 +21,7 @@ The following are the basic auction commands :\
 * The auction will last for 12 hours
 * 1000pc starting bid
 * 100pc bid increment\
-  ![](<../.gitbook/assets/image (22).png>)\
+  ![](<../.gitbook/assets/image (30).png>)\
   \
 
 
@@ -38,7 +42,7 @@ You can use this command to change the starting bid of your own auction if no on
   Searching your own auctions
 * P!a i (auction id) \
   To check more spesific detail about an auction. Including the highest bidder, the iv of the pokemon, etc. \
-  ![](<../.gitbook/assets/image (25).png>)
+  ![](<../.gitbook/assets/image (34).png>)
 * P!a s --bids\
   Using this command, you can see the auctions where you're the highest bidder.
 * P!a s --o bid+/-\
@@ -59,7 +63,7 @@ Ex. P!a bid 103483 12000
 Do note that **you cant cancel your bid**, so always double-check!
 
 Auction ID are the numbers on the left side when you're searching for auctions\
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (22).png>)
 
 \
 \

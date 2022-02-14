@@ -1,5 +1,9 @@
 # Viewing Your Pokémon
 
+{% hint style="warning" %}
+This site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
+{% endhint %}
+
 Now that you have started catching Pokémon, you may want to view the Pokémon you've caught so far.&#x20;
 
 This can be done in two main ways. First, a full view which includes everything about one of your Pokémon, and second, a list view of all the Pokémon you own, with 20 showing on one page at a time.&#x20;

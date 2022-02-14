@@ -4,6 +4,10 @@ description: All of the information there is to know about events.
 
 # Events
 
+{% hint style="warning" %}
+This site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
+{% endhint %}
+
 To help engage the community and keep spirits high, we've created events! These events happen throughout the year, celebrating holidays such as Christmas and Halloween. And what's better is that anyone can join in to help! _(More info on helping with events at the very bottom of the page)._
 
 Events in Pokétwo are times of the year where (primarily) our Art Team create different-looking Pokémon for the community to have fun obtaining. There are multiple types of events, so that they're not all the same, and it brings something exciting for the community to look forward to! Everyone involved in the creation of events keep it secret, so that it's a surprise when everyone finds out about it!&#x20;
