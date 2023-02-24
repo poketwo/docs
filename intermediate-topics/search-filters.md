@@ -168,7 +168,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>1. <a href="../economy/auctions.md">auction search</a> (@​Pokétwo#8236 a s)</summary>
+<summary>1. <a href="../economy/auctions.md">auction search</a> (p!a s)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -205,7 +205,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>2. favoriteall (@​Pokétwo#8236 fa)</summary>
+<summary>2. favoriteall (p!fa)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -239,7 +239,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>3. <a href="../economy/the-market.md">market search</a> (@​Pokétwo#8236 m s)</summary>
+<summary>3. <a href="../economy/the-market.md">market search</a> (p!m s)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -274,7 +274,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>4. nickall (@​Pokétwo#8236 na)</summary>
+<summary>4. nickall (p!na)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -309,7 +309,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>5. pokedex (@​Pokétwo#8236 d)</summary>
+<summary>5. pokedex (p!d)</summary>
 
 1. [--caught](search-filters.md#caught)
 2. [--legendary](search-filters.md#legendary)
@@ -325,7 +325,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>6. pokemon (@​Pokétwo#8236 p)</summary>
+<summary>6. pokemon (p!p)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -360,7 +360,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>7. releaseall (@​Pokétwo#8236 ra)</summary>
+<summary>7. releaseall (p!ra)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -394,7 +394,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>8. <a href="../economy/trading.md">trade addall</a> (@​Pokétwo#8236 t aa)</summary>
+<summary>8. <a href="../economy/trading.md">trade addall</a> (p!t aa)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -449,7 +449,9 @@ Any abbreviation of a filter can also be used to access that filter. E.g. the `-
 
 Filters can be used alongside each other and for further filtration, unless they serve the same general purpose. E.g.
 
-![Here, the filters --name and --nickname are used to show pokémon with the name Ralts and nickname Example](<../.gitbook/assets/IMG\_20220124\_150155 edited.png>)
+![Here, the filters --name and --nickname are used to show pokémon with the name Ralts and nickname Example](../.gitbook/assets/IMG\_20220124\_150155.jpg)
+
+![Here, the filters --name and --nickname are used to show pokémon with the name Ralts and nickname Example](../.gitbook/assets/IMG\_20220124\_150155.jpg)
 
 Some filters can also be used more than once in a command to filter with a wider range of criteria of the same kind. E.g.
 
@@ -573,26 +575,26 @@ All the filters in alphabetical order.
 Pokémon with ATK IV greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --atkiv > 20
+p!pokemon --atkiv > 20
 ```
 
 Pokémon with ATK IV less than 30
 
 ```
-@​Pokétwo#8236 pokemon --atkiv < 30
+p!pokemon --atkiv < 30
 ```
 
 Pokémon with ATK IV greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --atkiv > 20 --atkiv < 30
+p!pokemon --atkiv > 20 --atkiv < 30
 ```
 
 Pokémon with ATK IV equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --atkiv 25
-@​Pokétwo#8236 pokemon --atkiv = 25
+p!pokemon --atkiv 25
+p!pokemon --atkiv = 25
 ```
 
 </details>
@@ -649,6 +651,8 @@ Pokémon with ATK IV equal to 25
 
 \--cau
 
+\--c
+
 </details>
 
 <details>
@@ -687,6 +691,9 @@ Pokémon with ATK IV equal to 25
 
 \--def
 
+\--d\
+
+
 </details>
 
 <details>
@@ -722,26 +729,26 @@ Pokémon with ATK IV equal to 25
 Pokémon with DEF IV greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --defiv > 20
+p!pokemon --defiv > 20
 ```
 
 Pokémon with DEF IV less than 30
 
 ```
-@​Pokétwo#8236 pokemon --defiv < 30
+p!pokemon --defiv < 30
 ```
 
 Pokémon with DEF IV greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --defiv > 20 --defiv < 30
+p!pokemon --defiv > 20 --defiv < 30
 ```
 
 Pokémon with DEF IV equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --defiv 25
-@​Pokétwo#8236 pokemon --defiv = 25
+p!pokemon --defiv 25
+p!pokemon --defiv = 25
 ```
 
 </details>
@@ -797,9 +804,13 @@ Pokémon with DEF IV equal to 25
 >
 > E.g. `1h`, `1hour`, `2d`
 
-![Here, @​Pokétwo#8236 auction search --name Ralts --ends 1hour is searching for all current auctions that are of the pokémon Ralts and ends before 1 hour. ](<../.gitbook/assets/e Picsart\_22-01-30\_19-56-55-408.png>)
+![Here, p!auction search --name Ralts --ends 1hour is searching for all current auctions that are of the pokémon Ralts and ends before 1 hour. ](../.gitbook/assets/Picsart\_22-01-30\_19-56-55-408.jpg)
 
-![Here, @​Pokétwo#8236 auction search --name Ralts --ends 30m is searching for all current auctions that are of the pokémon Ralts and ends before 30 minutes. ](<../.gitbook/assets/e Picsart\_22-01-30\_19-58-18-800.png>)
+![Here, p!auction search --name Ralts --ends 1hour is searching for all current auctions that are of the pokémon Ralts and ends before 1 hour. ](../.gitbook/assets/Picsart\_22-01-30\_19-56-55-408.jpg)
+
+![Here, p!auction search --name Ralts --ends 30m is searching for all current auctions that are of the pokémon Ralts and ends before 30 minutes. ](../.gitbook/assets/Picsart\_22-01-30\_19-58-18-800.jpg)
+
+![Here, p!auction search --name Ralts --ends 30m is searching for all current auctions that are of the pokémon Ralts and ends before 30 minutes. ](../.gitbook/assets/Picsart\_22-01-30\_19-58-18-800.jpg)
 
 <details>
 
@@ -881,6 +892,8 @@ Pokémon with DEF IV equal to 25
 
 \--fav
 
+\--f
+
 </details>
 
 <details>
@@ -919,11 +932,13 @@ Pokémon with DEF IV equal to 25
 
 \--gal
 
+\--g
+
 </details>
 
 <details>
 
-<summary>Commands</summary>
+<summary>Comnands</summary>
 
 <mark style="color:green;">auction search</mark>
 
@@ -975,7 +990,9 @@ Pokémon with DEF IV equal to 25
 
 > Filter for pokémon that have 6 stat IVs that are equal to `<integer>`.  To elaborate, for a pokémon to match the criteria for this filter, its stat IVs, namely `HP`, `ATK`, `DEF`, `SPATK`, `SPDEF` and `SPD` IVs all need to be the same, equal to `<integer>`.
 
-![E.g. this pokémon would match the criteria for @​Pokétwo#8236 pokemon --hextuple 31 because it has 6 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220125\_220828.jpg)
+![E.g. this pokémon would match the criteria for p!pokemon --hextuple 31 because it has 6 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220125\_220828.jpg)
+
+![E.g. this pokémon would match the criteria for p!pokemon --hextuple 31 because it has 6 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220125\_220828.jpg)
 
 <details>
 
@@ -1058,26 +1075,26 @@ Pokémon with DEF IV equal to 25
 Pokémon with HP IV greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --hpiv > 20
+p!pokemon --hpiv > 20
 ```
 
 Pokémon with HP IV less than 30
 
 ```
-@​Pokétwo#8236 pokemon --hpiv < 30
+p!pokemon --hpiv < 30
 ```
 
 Pokémon with HP IV greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --hpiv > 20 --hpiv < 30
+p!pokemon --hpiv > 20 --hpiv < 30
 ```
 
 Pokémon with HP IV equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --hpiv 25
-@​Pokétwo#8236 pokemon --hpiv = 25
+p!pokemon --hpiv 25
+p!pokemon --hpiv = 25
 ```
 
 </details>
@@ -1085,6 +1102,14 @@ Pokémon with HP IV equal to 25
 #### --iv `<integer/decimal>`
 
 > Filter for pokémon with the specified Total IV. You can use `>`, `<` or `=` to show greater than, less than or equal to the specified integer or decimal. Typing an integer will show all of its decimal variants. E.g. `--iv 67` will show IVs `67.20%` and `67.74%` (all possible 67<68 IVs).
+
+<details>
+
+<summary>Commonly used aliases</summary>
+
+\--i
+
+</details>
 
 <details>
 
@@ -1117,26 +1142,26 @@ Pokémon with HP IV equal to 25
 Pokémon with Total IV greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --iv > 20
+p!pokemon --iv > 20
 ```
 
 Pokémon with Total IV less than 30
 
 ```
-@​Pokétwo#8236 pokemon --iv < 30
+p!pokemon --iv < 30
 ```
 
 Pokémon with Total IV greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --iv > 20 --iv < 30
+p!pokemon --iv > 20 --iv < 30
 ```
 
 Pokémon with Total IV equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --iv 25
-@​Pokétwo#8236 pokemon --iv = 25
+p!pokemon --iv 25
+p!pokemon --iv = 25
 ```
 
 </details>
@@ -1222,26 +1247,26 @@ Pokémon with Total IV equal to 25
 Pokémon with level greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --level > 20
+p!pokemon --level > 20
 ```
 
 Pokémon with level less than 30
 
 ```
-@​Pokétwo#8236 pokemon --level < 30
+p!pokemon --level < 30
 ```
 
 Pokémon with level greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --level > 20 --level < 30
+p!pokemon --level > 20 --level < 30
 ```
 
 Pokémon with level equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --level 25
-@​Pokétwo#8236 pokemon --level = 25
+p!pokemon --level 25
+p!pokemon --level = 25
 ```
 
 </details>
@@ -1250,7 +1275,9 @@ Pokémon with level equal to 25
 
 > Filter to limit the amount of pokémon shown. Regardless of how many pokémon the search returns, it'll always show `<integer>` amount of pokémon as long as there is enough.
 
-![E.g. in this image, it is showing 3 pokémon even though there may be more in my inventory.](<../.gitbook/assets/e IMG\_20220126\_140500.png>)
+![E.g. in this image, it is showing 3 pokémon even though there may be more in my inventory.](../.gitbook/assets/IMG\_20220126\_140500.jpg)
+
+![E.g. in this image, it is showing 3 pokémon even though there may be more in my inventory.](../.gitbook/assets/IMG\_20220126\_140500.jpg)
 
 <details>
 
@@ -1286,7 +1313,9 @@ Pokémon with level equal to 25
 
 #### --mega
 
-> Filter for pokémon that are in their mega form. (Transformed by purchasing a Mega evolution for your pokémon from **@​Pokétwo#8236 shop 6**)
+> Filter for pokémon that are in their mega form. (Transformed by purchasing a Mega evolution for your pokémon from **p!shop 6**)
+
+> Filter for pokémon that are in their mega form. (Transformed by purchasing a Mega evolution for your pokémon from **p!shop 6**)
 
 <details>
 
@@ -1494,7 +1523,13 @@ Pokémon with level equal to 25
 > Filter for finding pokémon with `<nickname>` as their nickname, set by the user using the `nick` or `nickall` commands. You can use this filter multiple times in commands to search for pokémon with the matching nickname for each.&#x20;
 >
 > {% hint style="info" %}
-> **You can use this filter with the `nickall` command to nickname pokémon with an existing nickname. E.g. `@​Pokétwo#8236 nickall new_nick --nickname old_nick`**
+> **You can use this filter with the `nickall` command to nickname pokémon with an existing nickname. E.g. `p!nickall new_nick --nickname old_nick`**
+> {% endhint %}
+
+> Filter for finding pokémon with `<nickname>` as their nickname, set by the user using the `nick` or `nickall` commands. You can use this filter multiple times in commands to search for pokémon with the matching nickname for each.&#x20;
+>
+> {% hint style="info" %}
+> **You can use this filter with the `nickall` command to nickname pokémon with an existing nickname. E.g. `p!nickall new_nick --nickname old_nick`**
 > {% endhint %}
 
 <details>
@@ -1554,9 +1589,9 @@ Pokémon with level equal to 25
 
 <summary>Commonly used aliases</summary>
 
-\--o
-
 \--or
+
+\--o
 
 </details>
 
@@ -1591,15 +1626,15 @@ Pokémon with level equal to 25
 Order **market search** by `price` ascending (low to high)
 
 ```
-@​Pokétwo#8236 market search --order price
-@​Pokétwo#8236 market search --order price+
+p!market search --order price
+p!market search --order price+
 ```
 
 Order **auction search** by `iv` descending
 
 ```
-@​Pokétwo#8236 auction search --order iv
-@​Pokétwo#8236 auction search --order iv-
+p!auction search --order iv
+p!auction search --order iv-
 ```
 
 </details>
@@ -1664,7 +1699,9 @@ Order **auction search** by `iv` descending
 
 > Filter for pokémon that have atleast 5 stat IVs that are equal to `<integer>`.  To elaborate, for a pokémon to match the criteria for this filter, 5 of its stat IVs, namely `HP`, `ATK`, `DEF`, `SPATK`, `SPDEF` and `SPD` IVs, need to be the same, equal to `<integer>`. This filter will also match combinations that are higher than 5.
 
-![E.g. this pokémon would match the criteria for @​Pokétwo#8236 pokemon --pentuple 31 because it has 5 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220128\_235049.jpg)
+![E.g. this pokémon would match the criteria for p!pokemon --pentuple 31 because it has 5 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220128\_235049.jpg)
+
+![E.g. this pokémon would match the criteria for p!pokemon --pentuple 31 because it has 5 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220128\_235049.jpg)
 
 <details>
 
@@ -1708,7 +1745,9 @@ Order **auction search** by `iv` descending
 
 > Filter for pokémon that have atleast 4 stat IVs that are equal to `<integer>`.  To elaborate, for a pokémon to match the criteria for this filter, 4 of its stat IVs, namely `HP`, `ATK`, `DEF`, `SPATK`, `SPDEF` and `SPD` IVs, need to be the same, equal to `<integer>`. This filter will also match combinations that are higher than 4.
 
-![E.g. this pokémon would match the criteria for @​Pokétwo#8236 pokemon --quadruple 31 because it has 4 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220128\_235159.jpg)
+![E.g. this pokémon would match the criteria for p!pokemon --quadruple 31 because it has 4 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220128\_235159.jpg)
+
+![E.g. this pokémon would match the criteria for p!pokemon --quadruple 31 because it has 4 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220128\_235159.jpg)
 
 <details>
 
@@ -1845,7 +1884,9 @@ Order **auction search** by `iv` descending
 
 #### --skip `<integer>`
 
-> Filter to exclude a certain number of pokémon from the beginning when using a command. For example, you may use this filter to favorite all Ralts except the first 5 using `@​Pokétwo#8236 favoriteall --n Ralts --skip 5`. &#x20;
+> Filter to exclude a certain number of pokémon from the beginning when using a command. For example, you may use this filter to favorite all Ralts except the first 5 using `p!favoriteall --n Ralts --skip 5`. &#x20;
+
+> Filter to exclude a certain number of pokémon from the beginning when using a command. For example, you may use this filter to favorite all Ralts except the first 5 using `p!favoriteall --n Ralts --skip 5`. &#x20;
 
 <details>
 
@@ -1886,19 +1927,19 @@ Order **auction search** by `iv` descending
 Show all Ralts on auction except the first 3
 
 ```
-@​Pokétwo#8236 auction search --name Ralts --skip 3
+p!auction search --name Ralts --skip 3
 ```
 
 Nickname all Ralts except the first 3
 
 ```
-@​Pokétwo#8236 nickall NICK --name Ralts --skip 3
+p!nickall NICK --name Ralts --skip 3
 ```
 
 Add all Ralts to a trade except the first 3
 
 ```
-@​Pokétwo#8236 trade addall --name Ralts --skip 3
+p!trade addall --name Ralts --skip 3
 ```
 
 </details>
@@ -1948,26 +1989,26 @@ Add all Ralts to a trade except the first 3
 Pokémon with SPATK IV greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --spatkiv > 20
+p!pokemon --spatkiv > 20
 ```
 
 Pokémon with SPATK IV less than 30
 
 ```
-@​Pokétwo#8236 pokemon --spatkiv < 30
+p!pokemon --spatkiv < 30
 ```
 
 Pokémon with SPATK IV greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --spatkiv > 20 --spatkiv < 30
+p!pokemon --spatkiv > 20 --spatkiv < 30
 ```
 
 Pokémon with SPATK IV equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --spatkiv 25
-pokemon --spatkiv = 25
+p!pokemon --spatkiv 25
+p!pokemon --spatkiv = 25
 ```
 
 </details>
@@ -2015,26 +2056,26 @@ pokemon --spatkiv = 25
 Pokémon with SPDEF IV greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --spdefiv > 20
+p!pokemon --spdefiv > 20
 ```
 
 Pokémon with SPDEF IV less than 30
 
 ```
-@​Pokétwo#8236 pokemon --spdefiv < 30
+p!pokemon --spdefiv < 30
 ```
 
 Pokémon with SPDEF IV greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --spdefiv > 20 --spdefiv < 30
+p!pokemon --spdefiv > 20 --spdefiv < 30
 ```
 
 Pokémon with SPDEF IV equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --spdefiv 25
-@​Pokétwo#8236 pokemon --spdefiv = 25
+p!pokemon --spdefiv 25
+p!pokemon --spdefiv = 25
 ```
 
 </details>
@@ -2074,26 +2115,26 @@ Pokémon with SPDEF IV equal to 25
 Pokémon with SPD IV greater than 20
 
 ```
-@​Pokétwo#8236 pokemon --spdiv > 20
+p!pokemon --spdiv > 20
 ```
 
 Pokémon with SPD IV less than 30
 
 ```
-@​Pokétwo#8236 pokemon --spdiv < 30
+p!pokemon --spdiv < 30
 ```
 
 Pokémon with SPD IV greater than 20 but less than 30
 
 ```
-@​Pokétwo#8236 pokemon --spdiv > 20 --spdiv < 30
+p!pokemon --spdiv > 20 --spdiv < 30
 ```
 
 Pokémon with SPD IV equal to 25
 
 ```
-@​Pokétwo#8236 pokemon --spdiv 25
-@​Pokétwo#8236 pokemon --spdiv = 25
+p!pokemon --spdiv 25
+p!pokemon --spdiv = 25
 ```
 
 </details>
@@ -2102,7 +2143,9 @@ Pokémon with SPD IV equal to 25
 
 > Filter for pokémon that have atleast 3 stat IVs that are equal to `<integer>`. To elaborate, for a pokémon to match the criteria for this filter, 3 of its stat IVs, namely `HP`, `ATK`, `DEF`, `SPATK`, `SPDEF` and `SPD` IVs, need to be the same, equal to `<integer>`. This filter will also match combinations that are higher than 3.
 
-![E.g. this pokémon would match the criteria for @​Pokétwo#8236 pokemon --triple 31 because it has 3 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220130\_172840.jpg)
+![E.g. this pokémon would match the criteria for p!pokemon --triple 31 because it has 3 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220130\_172840.jpg)
+
+![E.g. this pokémon would match the criteria for p!pokemon --triple 31 because it has 3 equal stat IVs that are 31.](../.gitbook/assets/IMG\_20220130\_172840.jpg)
 
 <details>
 

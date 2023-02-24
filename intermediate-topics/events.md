@@ -1,3 +1,7 @@
+---
+description: All of the information there is to know about events.
+---
+
 # Events
 
 {% hint style="warning" %}
@@ -63,7 +67,7 @@ To many of the community, this was the most fun and hilarious event we've had ye
 
 **-Médecins Sans Frontières / Doctors Without Borders Fundraiser Event-**
 
-This event, as the name suggests, was a fundraiser for the Doctors Without Borders charity. The Pokémon for this event was United Pikachu. Pokétwo's overall donation goal was $10,000. Staggeringly, this goal was met just one day after the event was released. There were different smaller goals within the big goal that opened up different rewards for everyone who donated, these included Pokécoins and an increasing amount of Shiny United Pikachus (randomly given away). Everyone who donated $15 or more was awarded with one United Pikachu. At the end of the event, every donor was awarded a special badge to commemorate. In the end, we all managed to raise over $35,000, over 3 times our original goal, it goes without saying we were totally mindblown by the generosity of the community! _(For more info on MSF, go to_ [_https://www.msf.org/_](https://www.msf.org/)_)._
+This event, as the name suggests, was a fundraiser for the Doctors Without Borders charity. The Pokémon for this event was United Pikachu. Pokétwo's overall donation goal was $10,000. Staggeringly, this goal was met just one day after the event was released. There were different smaller goals within the big goal that opened up different rewards for everyone who donated, these included Pokécoins and an increasing amount of Shiny United Pikachus (randomly given away). Everyone who donated $15 or more was awarded with one United Pikachu. At the end of the event, every donor was awarded a special badge to commemorate. In the end, we all managed to raise over $35,000, over 3 times our original goal, it goes without saying we were totally mindblown by the generosity of the community! _(For more info on MSF, go to_ [_https://www.msf.org/_](https://www.msf.org)_)._
 
 ![United Pikachu for the fundraiser event for MSF.](<../.gitbook/assets/image (2) (1).png>)
 
