@@ -1,8 +1,7 @@
 ---
 description: >-
-  Pokémon are here! In this section you will learn everything about wild spawns,
-  how to catch Pokémon, how to guess them, spawn rates and chances, tips and
-  tricks, etc.
+  Pokémon are here! In this section you will learn everything about the wild
+  spawns, how to catch Pokémon, how to guess them, and so on.
 ---
 
 # Spawning & Catching
