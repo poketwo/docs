@@ -1,8 +1,8 @@
 ---
 description: >-
-  Filters usable in various commands such as pokemon, market search, auction
-  search, etc to narrow down your search to find the exact pokémon you're
-  looking for.
+  On this page you will learn about filters usable in various commands such as
+  pokemon, market search, auction search, etc to narrow down your search to find
+  the exact pokémon you're looking for.
 ---
 
 # Search Filters
@@ -13,15 +13,15 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 
 ### Contents
 
-1. [Contents](search-filters.md#contents)
-2. [Introduction](search-filters.md#introduction)
-3. [Supported commands](search-filters.md#supported-commands)
-4. [Naming system of filters](search-filters.md#naming-system-of-filters)
-5. [Usage of filters](search-filters.md#usage-of-filters)
+1. [#contents](search-filters.md#contents "mention")
+2. [#introduction](search-filters.md#introduction "mention")
+3. [#supported-commands](search-filters.md#supported-commands "mention")
+4. [#naming-system-of-filters](search-filters.md#naming-system-of-filters "mention")
+5. [#usage-of-filters](search-filters.md#usage-of-filters "mention")
 
 <details>
 
-<summary>6. <a href="search-filters.md#list-of-filters">List of filters</a></summary>
+<summary>6. <a data-mention href="search-filters.md#list-of-filters">#list-of-filters</a></summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -168,7 +168,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>1. <a href="../economy/auctions.md">auction search</a> (p!a s)</summary>
+<summary>1. <a href="../economy/auctions.md">auction search</a> (@​Pokétwo#8236 a s)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -205,7 +205,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>2. favoriteall (p!fa)</summary>
+<summary>2. favoriteall (@​Pokétwo#8236 fa)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -239,7 +239,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>3. <a href="../economy/the-market.md">market search</a> (p!m s)</summary>
+<summary>3. <a href="../economy/the-market.md">market search</a> (@​Pokétwo#8236 m s)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -274,7 +274,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>4. nickall (p!na)</summary>
+<summary>4. nickall (@​Pokétwo#8236 na)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -309,7 +309,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>5. pokedex (p!d)</summary>
+<summary>5. pokedex (@​Pokétwo#8236 d)</summary>
 
 1. [--caught](search-filters.md#caught)
 2. [--legendary](search-filters.md#legendary)
@@ -325,7 +325,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>6. pokemon (p!p)</summary>
+<summary>6. pokemon (@​Pokétwo#8236 p)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -360,7 +360,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>7. releaseall (p!ra)</summary>
+<summary>7. releaseall (@​Pokétwo#8236 ra)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -394,7 +394,7 @@ Commands that support filters and the filters they support. Check out the full l
 
 <details>
 
-<summary>8. <a href="../economy/trading.md">trade addall</a> (p!t aa)</summary>
+<summary>8. <a href="../economy/trading.md">trade addall</a> (@​Pokétwo#8236 t aa)</summary>
 
 1. [--alolan](search-filters.md#alolan)
 2. [--atkiv](search-filters.md#atkiv-less-than-integer-greater-than)
@@ -431,7 +431,7 @@ Commands that support filters and the filters they support. Check out the full l
 Filters are named according to their general purpose. E.g. the `--name` filter searches by the **name** of pokémon. _They are **case-sensitive**, meaning that, e.g. `--Name` will not work; It must be all lowercase._
 
 {% hint style="info" %}
-Any abbreviation of a filter can also be used to access that filter. E.g. the `--name` filter can be accessed using either of:
+Any abbreviation of a filter can also be used to access it. E.g. the `--name` filter can be accessed using either of:
 
 * `--n`
 * `--na`
@@ -463,7 +463,7 @@ All the filters in alphabetical order.
 
 [Index](search-filters.md#contents)
 
-> #### --alolan
+#### --alolan
 
 > Filter for regional variant of pokémon that come from the Alola region and identify as alolan forms.
 

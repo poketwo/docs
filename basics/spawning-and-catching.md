@@ -1,7 +1,7 @@
 ---
 description: >-
-  Pokémon are here! In this section you will learn everything about the wild
-  spawns, how to catch Pokémon, how to guess them, and so on.
+  Pokémon are here! On this page you will learn everything about wild pokémon
+  spawns, how to guess and catch them, and so on.
 ---
 
 # Spawning & Catching
@@ -9,6 +9,29 @@ description: >-
 {% hint style="warning" %}
 This site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
 {% endhint %}
+
+### Contents
+
+1. [#list-of-related-commands](spawning-and-catching.md#list-of-related-commands "mention")
+2. [#spawning-pokemon](spawning-and-catching.md#spawning-pokemon "mention")
+   1. [#spawn-rates](spawning-and-catching.md#spawn-rates "mention")
+3. [#spawn-chances](spawning-and-catching.md#spawn-chances "mention")
+4. [#catching-pokemon](spawning-and-catching.md#catching-pokemon "mention")
+5. [#catching-rewards](spawning-and-catching.md#catching-rewards "mention")
+   1. [#quests](spawning-and-catching.md#quests "mention")
+   2. [#catch-milestones](spawning-and-catching.md#catch-milestones "mention")
+6. [#pokemon-hints](spawning-and-catching.md#pokemon-hints "mention")
+7. [#shiny-pokemon](spawning-and-catching.md#shiny-pokemon "mention")
+8. [#shiny-hunting](spawning-and-catching.md#shiny-hunting "mention")
+   1. [#how-to-shiny-hunt](spawning-and-catching.md#how-to-shiny-hunt "mention")
+   2. [#calculating-chance](spawning-and-catching.md#calculating-chance "mention")
+   3. [#shiny-streak-chance-calculator](spawning-and-catching.md#shiny-streak-chance-calculator "mention")
+   4. [#catching-other-shinies-while-hunting](spawning-and-catching.md#catching-other-shinies-while-hunting "mention")
+9. [#alternate-pokemon-names](spawning-and-catching.md#alternate-pokemon-names "mention")
+10. [#incenses](spawning-and-catching.md#incenses "mention")
+    1. [#details](spawning-and-catching.md#details "mention")
+    2. [#steps-for-purchasing-an-incense](spawning-and-catching.md#steps-for-purchasing-an-incense "mention")
+11. [#setting-spawn-channels](spawning-and-catching.md#setting-spawn-channels "mention")
 
 ### List of related commands
 
@@ -187,7 +210,9 @@ $$=\frac{7 + \sqrt{streak}}{28672}\times100$$
 
 $$\frac{7 + \sqrt{streak}}{23893.1}\times100$$
 
-#### Here is a simple program to calculate the chances at a specific shiny hunt streak
+#### Shiny streak chance calculator
+
+Here is a simple program to calculate the chances at a specific shiny hunt streak
 
 {% embed url="https://trinket.io/embed/python/072b38317a?outputOnly=true&runOption=run&start=result" %}
 Simple program to calculate shiny chance at a specific shiny streak
@@ -221,9 +246,9 @@ However, catching that form _will_ count towards this streak and the chance will
 As an example, let's say you want to shiny hunt **Alolan Vulpix**. After starting hunting **Vulpix**, only catch the **Alolan** form. You must be careful not to catch the base form or any other forms, as their shiny chances will increase as well and hence break the shiny hunt streak if you get lucky, or rather, unlucky.
 {% endhint %}
 
-#### **"Can I catch a shiny that is not my hunt even if I'm hunting a Pokémon?"**
+#### **Catching other shinies while hunting**
 
-Yes you can! You can always catch a shiny, the chance of which is `1/4096` or `~0.0244%` and `1/3413.3` or `~0.029%` with Shiny Charm.
+You can always catch any shiny and their chance will not be affected by your shiny streak, nor will you streak break if you catch a shiny of a different pokémon, the chance of which is `1/4096` or `~0.0244%` and `1/3413.3` or `~0.029%` with Shiny Charm.
 
 ### Alternate Pokémon names
 
