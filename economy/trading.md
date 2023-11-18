@@ -27,8 +27,8 @@ Alias p!trade @Var\_Monke&#x20;
 
 Alias p!t a \<pokémon\_id>
 
-****\
-&#x20;                                        ****                                         Adds the pokémon with the **ID 4565**.
+\
+&#x20;                                        Adds the pokémon with the **ID 4565**.
 
 ![](<../.gitbook/assets/image (7).png>)
 
@@ -36,15 +36,15 @@ Alias p!t a \<pokémon\_id>
 
 Alias p!t r \<pokémon\_id>
 
-#### &#x20;                               ****                                Removes the pokémon with the ID 4565(if it is in trade)
+#### &#x20;                               Removes the pokémon with the ID 4565(if it is in trade)
 
 ![](<../.gitbook/assets/image (14).png>)
 {% endtab %}
 
 {% tab title=" Multiple Pokémon" %}
 **p!trade addall \[**[**Search Filters**](../intermediate-topics/search-filters.md)**] - Adds multiple times or mass of a certain type**\
-****\
-****Alias p!t aa \[[Search Filters](../intermediate-topics/search-filters.md)]&#x20;
+\
+Alias p!t aa \[[Search Filters](../intermediate-topics/search-filters.md)]&#x20;
 
 ![Adds 10 pokemon from the category chosen.](<../.gitbook/assets/image (2).png>)
 
@@ -55,24 +55,28 @@ Items cannot be removed in bulk.
 
 {% tab title="Pokécoins" %}
 **To  add Pokecoins, use p!trade add pc \<pokecoin\_amount>**\
-****Alias p!t a pc \<pokecoin\_amount>
+Alias p!t a pc \<pokecoin\_amount>
 
 ![](<../.gitbook/assets/image (21).png>)
 
 **To remove Pokecoins, use p!trade remove pc \<pokecoin\_amount>**\
-****Alias p!t a pc \<pokecoin\_amount>
+Alias p!t a pc \<pokecoin\_amount>
 
-![](<../.gitbook/assets/image (9).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (9).png" alt="">
+
+</div>
 {% endtab %}
 
 {% tab title="Redeems" %}
 **To add redeems, use p!trade add redeem \<redeem\_amount>**\
-****Alias p!t a r \<redeem\_amount>
+Alias p!t a r \<redeem\_amount>
 
 ![In this example, p!t a r 1 adds 1 redeem to the trade. It stands for p!trade add redeem 1.](<../.gitbook/assets/image (18).png>)
 
 **To remove redeems, us p!trade remove redeem \<redeem\_amount>** \
-****Alias p!t r r \<redeem\_amount>
+Alias p!t r r \<redeem\_amount>
 
 ![Here p!t r r 1 it removes 1 redeem. It stands for p!trade remove redeem 1.](<../.gitbook/assets/image (37).png>)
 {% endtab %}

@@ -8,7 +8,7 @@ description: >-
 # Search Filters
 
 {% hint style="warning" %}
-This site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
+&#x20;This site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
 {% endhint %}
 
 ### Contents
@@ -34,31 +34,35 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 9. [--favorite](search-filters.md#favorite)
 10. [--galarian](search-filters.md#galarian)
 11. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
-12. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
-13. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-14. [--legendary](search-filters.md#legendary)
-15. [--level](search-filters.md#level-less-than-integer-greater-than)
-16. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-17. [--mega](search-filters.md#mega)
-18. [--mine](search-filters.md#mine)
-19. [--mythical](search-filters.md#mythical)
-20. [--name](search-filters.md#name-less-than-name-greater-than)
-21. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
-22. [--order](search-filters.md#order-less-than-order-greater-than)
-23. [--ordera](search-filters.md#ordera)
-24. [--orderd](search-filters.md#orderd)
-25. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-26. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-27. [--region](search-filters.md#region-less-than-region-greater-than)
-28. [--shiny](search-filters.md#shiny)
-29. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-30. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-31. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-32. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-33. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-34. [--type](search-filters.md#type-less-than-type-greater-than)
-35. [--ub](search-filters.md#ub)
-36. [--uncaught](search-filters.md#uncaught)
+12. [--hisuian](search-filters.md#hisuian)
+13. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
+14. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
+15. [--learns](search-filters.md#learns-move-name)
+16. [--legendary](search-filters.md#legendary)
+17. [--level](search-filters.md#level-less-than-integer-greater-than)
+18. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+19. [--mega](search-filters.md#mega)
+20. [--mine](search-filters.md#mine)
+21. [--move](search-filters.md#move-less-than-move-name-greater-than)
+22. [--mythical](search-filters.md#mythical)
+23. [--name](search-filters.md#name-less-than-name-greater-than)
+24. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
+25. [--order](search-filters.md#order-less-than-order-greater-than)
+26. [--ordera](search-filters.md#ordera)
+27. [--orderd](search-filters.md#orderd)
+28. [--paradox](search-filters.md#paradox)
+29. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+30. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+31. [--region](search-filters.md#region-less-than-region-greater-than)
+32. [--shiny](search-filters.md#shiny)
+33. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+34. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+35. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+36. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+37. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+38. [--type](search-filters.md#type-less-than-type-greater-than)
+39. [--ub](search-filters.md#ub)
+40. [--uncaught](search-filters.md#uncaught)
 
 </details>
 
@@ -77,6 +81,7 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 * **Mythical:** [--mythical](search-filters.md#mythical)
 * **Legendary:** [--legendary](search-filters.md#legendary)
 * **Ultra Beast:** [--ub](search-filters.md#ub)
+* **Paradox:** [--paradox](search-filters.md#paradox)
 
 **Type:** [--type](search-filters.md#type-less-than-type-greater-than)
 
@@ -119,12 +124,18 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 **Alolan:** [--alolan](search-filters.md#alolan)
 
 **Galarian:** [--galarian](search-filters.md#galarian)
+
+**Hisuian:** [--hisuian](search-filters.md#hisuian)
 {% endtab %}
 
 {% tab title="Miscellaneous" %}
 **Limit:** [--limit](search-filters.md#limit-less-than-integer-greater-than)
 
 **Skip:** [--skip](search-filters.md#skip-less-than-integer-greater-than)
+
+**Move:** [--move](search-filters.md#move-less-than-move-name-greater-than)
+
+**Learns:** [--learns](search-filters.md#learns-move-name)
 
 
 
@@ -181,25 +192,28 @@ Commands that support filters and the filters they support. Check out the full l
 9. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
 10. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
 11. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-12. [--legendary](search-filters.md#legendary)
-13. [--level](search-filters.md#level-less-than-integer-greater-than)
-14. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-15. [--mega](search-filters.md#mega)
-16. [--mine](search-filters.md#mine)
-17. [--mythical](search-filters.md#mythical)
-18. [--name](search-filters.md#name-less-than-name-greater-than)
-19. [--order](search-filters.md#order-less-than-order-greater-than)
-20. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-21. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-22. [--region](search-filters.md#region-less-than-region-greater-than)
-23. [--shiny](search-filters.md#shiny)
-24. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-25. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-26. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-27. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-28. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-29. [--type](search-filters.md#type-less-than-type-greater-than)
-30. [--ub](search-filters.md#ub)
+12. [--learns](search-filters.md#learns-move-name)
+13. [--legendary](search-filters.md#legendary)
+14. [--level](search-filters.md#level-less-than-integer-greater-than)
+15. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+16. [--mega](search-filters.md#mega)
+17. [--mine](search-filters.md#mine)
+18. [--move](search-filters.md#move-less-than-move-name-greater-than)
+19. [--mythical](search-filters.md#mythical)
+20. [--name](search-filters.md#name-less-than-name-greater-than)
+21. [--order](search-filters.md#order-less-than-order-greater-than)
+22. [--paradox](search-filters.md#paradox)
+23. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+24. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+25. [--region](search-filters.md#region-less-than-region-greater-than)
+26. [--shiny](search-filters.md#shiny)
+27. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+28. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+29. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+30. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+31. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+32. [--type](search-filters.md#type-less-than-type-greater-than)
+33. [--ub](search-filters.md#ub)
 
 </details>
 
@@ -216,24 +230,27 @@ Commands that support filters and the filters they support. Check out the full l
 7. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
 8. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
 9. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-10. [--legendary](search-filters.md#legendary)
-11. [--level](search-filters.md#level-less-than-integer-greater-than)
-12. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-13. [--mega](search-filters.md#mega)
-14. [--mythical](search-filters.md#mythical)
-15. [--name](search-filters.md#name-less-than-name-greater-than)
-16. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
-17. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-18. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-19. [--region](search-filters.md#region-less-than-region-greater-than)
-20. [--shiny](search-filters.md#shiny)
-21. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-22. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-23. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-24. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-25. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-26. [--type](search-filters.md#type-less-than-type-greater-than)
-27. [--ub](search-filters.md#ub)
+10. [--learns](search-filters.md#learns-move-name)
+11. [--legendary](search-filters.md#legendary)
+12. [--level](search-filters.md#level-less-than-integer-greater-than)
+13. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+14. [--mega](search-filters.md#mega)
+15. [--move](search-filters.md#move-less-than-move-name-greater-than)
+16. [--mythical](search-filters.md#mythical)
+17. [--name](search-filters.md#name-less-than-name-greater-than)
+18. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
+19. [--paradox](search-filters.md#paradox)
+20. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+21. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+22. [--region](search-filters.md#region-less-than-region-greater-than)
+23. [--shiny](search-filters.md#shiny)
+24. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+25. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+26. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+27. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+28. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+29. [--type](search-filters.md#type-less-than-type-greater-than)
+30. [--ub](search-filters.md#ub)
 
 </details>
 
@@ -250,25 +267,28 @@ Commands that support filters and the filters they support. Check out the full l
 7. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
 8. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
 9. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-10. [--legendary](search-filters.md#legendary)
-11. [--level](search-filters.md#level-less-than-integer-greater-than)
-12. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-13. [--mega](search-filters.md#mega)
-14. [--mine](search-filters.md#mine)
-15. [--mythical](search-filters.md#mythical)
-16. [--name](search-filters.md#name-less-than-name-greater-than)
-17. [--order](search-filters.md#order-less-than-order-greater-than)
-18. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-19. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-20. [--region](search-filters.md#region-less-than-region-greater-than)
-21. [--shiny](search-filters.md#shiny)
-22. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-23. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-24. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-25. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-26. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-27. [--type](search-filters.md#type-less-than-type-greater-than)
-28. [--ub](search-filters.md#ub)
+10. [--learns](search-filters.md#learns-move-name)
+11. [--legendary](search-filters.md#legendary)
+12. [--level](search-filters.md#level-less-than-integer-greater-than)
+13. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+14. [--mega](search-filters.md#mega)
+15. [--mine](search-filters.md#mine)
+16. [--move](search-filters.md#move-less-than-move-name-greater-than)
+17. [--mythical](search-filters.md#mythical)
+18. [--name](search-filters.md#name-less-than-name-greater-than)
+19. [--order](search-filters.md#order-less-than-order-greater-than)
+20. [--paradox](search-filters.md#paradox)
+21. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+22. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+23. [--region](search-filters.md#region-less-than-region-greater-than)
+24. [--shiny](search-filters.md#shiny)
+25. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+26. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+27. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+28. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+29. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+30. [--type](search-filters.md#type-less-than-type-greater-than)
+31. [--ub](search-filters.md#ub)
 
 </details>
 
@@ -286,24 +306,27 @@ Commands that support filters and the filters they support. Check out the full l
 8. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
 9. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
 10. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-11. [--legendary](search-filters.md#legendary)
-12. [--level](search-filters.md#level-less-than-integer-greater-than)
-13. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-14. [--mega](search-filters.md#mega)
-15. [--mythical](search-filters.md#mythical)
-16. [--name](search-filters.md#name-less-than-name-greater-than)
-17. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
-18. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-19. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-20. [--region](search-filters.md#region-less-than-region-greater-than)
-21. [--shiny](search-filters.md#shiny)
-22. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-23. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-24. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-25. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-26. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-27. [--type](search-filters.md#type-less-than-type-greater-than)
-28. [--ub](search-filters.md#ub)
+11. [--learns](search-filters.md#learns-move-name)
+12. [--legendary](search-filters.md#legendary)
+13. [--level](search-filters.md#level-less-than-integer-greater-than)
+14. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+15. [--mega](search-filters.md#mega)
+16. [--move](search-filters.md#move-less-than-move-name-greater-than)
+17. [--mythical](search-filters.md#mythical)
+18. [--name](search-filters.md#name-less-than-name-greater-than)
+19. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
+20. [--paradox](search-filters.md#paradox)
+21. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+22. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+23. [--region](search-filters.md#region-less-than-region-greater-than)
+24. [--shiny](search-filters.md#shiny)
+25. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+26. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+27. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+28. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+29. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+30. [--type](search-filters.md#type-less-than-type-greater-than)
+31. [--ub](search-filters.md#ub)
 
 </details>
 
@@ -312,14 +335,16 @@ Commands that support filters and the filters they support. Check out the full l
 <summary>5. pokedex (@​Pokétwo#8236 d)</summary>
 
 1. [--caught](search-filters.md#caught)
-2. [--legendary](search-filters.md#legendary)
-3. [--mythical](search-filters.md#mythical)
-4. [--ordera](search-filters.md#ordera)
-5. [--orderd](search-filters.md#orderd)
-6. [--region](search-filters.md#region-less-than-region-greater-than)
-7. [--type](search-filters.md#type-less-than-type-greater-than)
-8. [--ub](https://app.gitbook.com/o/v6Hu8g8ZTlGEzK8GZO2X/s/V8TpJwvEXrp8bgi2enWi/\~/changes/Jsti1rFh7TzR0xPjJrG8/intermediate-topics/search-filters#ub)
-9. [--uncaught](search-filters.md#uncaught)
+2. [--learns](search-filters.md#learns-move-name)
+3. [--legendary](search-filters.md#legendary)
+4. [--mythical](search-filters.md#mythical)
+5. [--ordera](search-filters.md#ordera)
+6. [--orderd](search-filters.md#orderd)
+7. [--paradox](search-filters.md#paradox)
+8. [--region](search-filters.md#region-less-than-region-greater-than)
+9. [--type](search-filters.md#type-less-than-type-greater-than)
+10. [--ub](https://app.gitbook.com/o/v6Hu8g8ZTlGEzK8GZO2X/s/V8TpJwvEXrp8bgi2enWi/\~/changes/Jsti1rFh7TzR0xPjJrG8/intermediate-topics/search-filters#ub)
+11. [--uncaught](search-filters.md#uncaught)
 
 </details>
 
@@ -337,24 +362,27 @@ Commands that support filters and the filters they support. Check out the full l
 8. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
 9. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
 10. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-11. [--legendary](search-filters.md#legendary)
-12. [--level](search-filters.md#level-less-than-integer-greater-than)
-13. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-14. [--mega](search-filters.md#mega)
-15. [--mythical](search-filters.md#mythical)
-16. [--name](search-filters.md#name-less-than-name-greater-than)
-17. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
-18. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-19. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-20. [--region](search-filters.md#region-less-than-region-greater-than)
-21. [--shiny](search-filters.md#shiny)
-22. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-23. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-24. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-25. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-26. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-27. [--type](search-filters.md#type-less-than-type-greater-than)
-28. [--ub](search-filters.md#ub)
+11. [--learns](search-filters.md#learns-move-name)
+12. [--legendary](search-filters.md#legendary)
+13. [--level](search-filters.md#level-less-than-integer-greater-than)
+14. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+15. [--mega](search-filters.md#mega)
+16. [--move](search-filters.md#move-less-than-move-name-greater-than)
+17. [--mythical](search-filters.md#mythical)
+18. [--name](search-filters.md#name-less-than-name-greater-than)
+19. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
+20. [--paradox](search-filters.md#paradox)
+21. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+22. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+23. [--region](search-filters.md#region-less-than-region-greater-than)
+24. [--shiny](search-filters.md#shiny)
+25. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+26. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+27. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+28. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+29. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+30. [--type](search-filters.md#type-less-than-type-greater-than)
+31. [--ub](search-filters.md#ub)
 
 </details>
 
@@ -371,24 +399,27 @@ Commands that support filters and the filters they support. Check out the full l
 7. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
 8. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
 9. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-10. [--legendary](search-filters.md#legendary)
-11. [--level](search-filters.md#level-less-than-integer-greater-than)
-12. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-13. [--mega](search-filters.md#mega)
-14. [--mythical](search-filters.md#mythical)
-15. [--name](search-filters.md#name-less-than-name-greater-than)
-16. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
-17. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-18. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-19. [--region](search-filters.md#region-less-than-region-greater-than)
-20. [--shiny](search-filters.md#shiny)
-21. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-22. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-23. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-24. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-25. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-26. [--type](search-filters.md#type-less-than-type-greater-than)
-27. [--ub](search-filters.md#ub)
+10. [--learns](search-filters.md#learns-move-name)
+11. [--legendary](search-filters.md#legendary)
+12. [--level](search-filters.md#level-less-than-integer-greater-than)
+13. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+14. [--mega](search-filters.md#mega)
+15. [--move](search-filters.md#move-less-than-move-name-greater-than)
+16. [--mythical](search-filters.md#mythical)
+17. [--name](search-filters.md#name-less-than-name-greater-than)
+18. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
+19. [--paradox](search-filters.md#paradox)
+20. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+21. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+22. [--region](search-filters.md#region-less-than-region-greater-than)
+23. [--shiny](search-filters.md#shiny)
+24. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+25. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+26. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+27. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+28. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+29. [--type](search-filters.md#type-less-than-type-greater-than)
+30. [--ub](search-filters.md#ub)
 
 </details>
 
@@ -405,24 +436,47 @@ Commands that support filters and the filters they support. Check out the full l
 7. [--hextuple](search-filters.md#hextuple-less-than-integer-greater-than)
 8. [--hpiv](search-filters.md#hpiv-less-than-integer-greater-than)
 9. [--iv](search-filters.md#iv-less-than-integer-decimal-greater-than)
-10. [--legendary](search-filters.md#legendary)
-11. [--level](search-filters.md#level-less-than-integer-greater-than)
-12. [--limit](search-filters.md#limit-less-than-integer-greater-than)
-13. [--mega](search-filters.md#mega)
-14. [--mythical](search-filters.md#mythical)
-15. [--name](search-filters.md#name-less-than-name-greater-than)
-16. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
-17. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
-18. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
-19. [--region](search-filters.md#region-less-than-region-greater-than)
-20. [--shiny](search-filters.md#shiny)
-21. [--skip](search-filters.md#skip-less-than-integer-greater-than)
-22. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
-23. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
-24. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
-25. [--triple](search-filters.md#triple-less-than-integer-greater-than)
-26. [--type](search-filters.md#type-less-than-type-greater-than)
-27. [--ub](search-filters.md#ub)
+10. [--learns](search-filters.md#learns-move-name)
+11. [--legendary](search-filters.md#legendary)
+12. [--level](search-filters.md#level-less-than-integer-greater-than)
+13. [--limit](search-filters.md#limit-less-than-integer-greater-than)
+14. [--mega](search-filters.md#mega)
+15. [--move](search-filters.md#move-less-than-move-name-greater-than)
+16. [--mythical](search-filters.md#mythical)
+17. [--name](search-filters.md#name-less-than-name-greater-than)
+18. [--nickname](search-filters.md#nickname-less-than-nickname-greater-than)
+19. [--paradox](search-filters.md#paradox)
+20. [--pentuple](search-filters.md#pentuple-less-than-integer-greater-than)
+21. [--quadruple](search-filters.md#quadruple-less-than-integer-greater-than)
+22. [--region](search-filters.md#region-less-than-region-greater-than)
+23. [--shiny](search-filters.md#shiny)
+24. [--skip](search-filters.md#skip-less-than-integer-greater-than)
+25. [--spatkiv](search-filters.md#spatkiv-less-than-integer-greater-than)
+26. [--spdefiv](search-filters.md#spdefiv-less-than-integer-greater-than)
+27. [--spdiv](search-filters.md#spdiv-less-than-integer-greater-than)
+28. [--triple](search-filters.md#triple-less-than-integer-greater-than)
+29. [--type](search-filters.md#type-less-than-type-greater-than)
+30. [--ub](search-filters.md#ub)
+
+</details>
+
+<details>
+
+<summary>9. learnset (@​Pokétwo#8236 ls)</summary>
+
+1. [--alolan](search-filters.md#alolan)
+2. [--galarian](search-filters.md#galarian)
+3. [--hisuian](search-filters.md#hisuian)
+4. [--mythical](search-filters.md#mythical)
+5. [--legendary](search-filters.md#legendary)
+6. [--ub](https://app.gitbook.com/o/v6Hu8g8ZTlGEzK8GZO2X/s/V8TpJwvEXrp8bgi2enWi/\~/changes/Jsti1rFh7TzR0xPjJrG8/intermediate-topics/search-filters#ub)
+7. [--paradox](search-filters.md#paradox)
+8. [--event](search-filters.md#event)
+9. [--mega](search-filters.md#mega)
+10. [--name](search-filters.md#name-less-than-name-greater-than)
+11. [--type](search-filters.md#type-less-than-type-greater-than)
+12. [--region](search-filters.md#region-less-than-region-greater-than)
+13. [--learns](search-filters.md#learns-move-name)
 
 </details>
 
@@ -501,6 +555,8 @@ All the filters in alphabetical order.
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:green;">learnset</mark>
+
 </details>
 
 <details>
@@ -565,6 +621,8 @@ All the filters in alphabetical order.
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -633,9 +691,11 @@ p!pokemon --atkiv = 25
 
 <mark style="color:red;">releaseall</mark>
 
-<mark style="color:red;">trade addall</mark> <mark style="color:red;"></mark><mark style="color:red;"><mark style="color:green;"><mark style="color:green;"></mark>&#x20;
+<mark style="color:red;">trade addall</mark>&#x20;
 
 <mark style="color:red;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -673,9 +733,11 @@ p!pokemon --atkiv = 25
 
 <mark style="color:red;">releaseall</mark>
 
-<mark style="color:red;">trade addall</mark> <mark style="color:red;"></mark><mark style="color:red;"><mark style="color:green;"><mark style="color:green;"></mark>&#x20;
+<mark style="color:red;">trade addall</mark>&#x20;
 
 <mark style="color:red;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -717,6 +779,8 @@ p!pokemon --atkiv = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -789,6 +853,8 @@ p!pokemon --defiv = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --ends `<duration>`
@@ -830,9 +896,11 @@ p!pokemon --defiv = 25
 
 <mark style="color:red;">releaseall</mark>
 
-<mark style="color:red;">trade addall</mark> <mark style="color:red;"></mark><mark style="color:red;"><mark style="color:green;"><mark style="color:green;"></mark>&#x20;
+<mark style="color:red;">trade addall</mark>&#x20;
 
 <mark style="color:red;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -871,6 +939,8 @@ p!pokemon --defiv = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -914,9 +984,11 @@ p!pokemon --defiv = 25
 
 <mark style="color:red;">releaseall</mark>
 
-<mark style="color:red;">trade addall</mark> <mark style="color:green;"></mark>&#x20;
+<mark style="color:red;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -957,6 +1029,8 @@ p!pokemon --defiv = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -1030,6 +1104,46 @@ p!pokemon --defiv = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
+</details>
+
+#### --hisuian
+
+> Filter for regional variant of pokémon that come from the Hisui region and identify as hisuian forms.
+
+<details>
+
+<summary>Commonly used aliases</summary>
+
+\--his
+
+</details>
+
+<details>
+
+<summary>Comnands</summary>
+
+<mark style="color:green;">auction search</mark>
+
+<mark style="color:green;">favoriteall</mark>
+
+<mark style="color:green;">market search</mark>
+
+<mark style="color:green;">nickall</mark>
+
+<mark style="color:red;">pokedex</mark>
+
+<mark style="color:green;">pokemon</mark>
+
+<mark style="color:green;">releaseall</mark>
+
+<mark style="color:green;">trade addall</mark>&#x20;
+
+<mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
+
 </details>
 
 #### --hpiv `<integer>`
@@ -1065,6 +1179,8 @@ p!pokemon --defiv = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -1133,6 +1249,8 @@ p!pokemon --hpiv = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 <details>
@@ -1163,6 +1281,36 @@ Pokémon with Total IV equal to 25
 p!pokemon --iv 25
 p!pokemon --iv = 25
 ```
+
+</details>
+
+#### --learns \[`move name]`
+
+> Filter for viewing pokémon that have a specific move in its moveset. `move name` can be empty to view pokémon that have any move in its moveset.
+
+<details>
+
+<summary>Commands</summary>
+
+<mark style="color:green;">auction search</mark>
+
+<mark style="color:green;">favoriteall</mark>
+
+<mark style="color:green;">market search</mark>
+
+<mark style="color:green;">nickall</mark>
+
+<mark style="color:green;">pokedex</mark>
+
+<mark style="color:green;">pokemon</mark>
+
+<mark style="color:green;">releaseall</mark>
+
+<mark style="color:green;">trade addall</mark>&#x20;
+
+<mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -1202,6 +1350,8 @@ p!pokemon --iv = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:green;">learnset</mark>
+
 </details>
 
 #### --level `<integer>`
@@ -1237,6 +1387,8 @@ p!pokemon --iv = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -1309,6 +1461,8 @@ p!pokemon --level = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --mega
@@ -1338,6 +1492,8 @@ p!pokemon --level = 25
 <mark style="color:green;">trade addall</mark>
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -1436,6 +1592,38 @@ p!pokemon --level = 25
 
 <mark style="color:red;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
+</details>
+
+#### --move `<move name>`
+
+> Filter for viewing pokémon that have a specific move learned.
+
+<details>
+
+<summary>Commands</summary>
+
+<mark style="color:green;">auction search</mark>
+
+<mark style="color:green;">favoriteall</mark>
+
+<mark style="color:green;">market search</mark>
+
+<mark style="color:green;">nickall</mark>
+
+<mark style="color:red;">pokedex</mark>
+
+<mark style="color:green;">pokemon</mark>
+
+<mark style="color:green;">releaseall</mark>
+
+<mark style="color:green;">trade addall</mark>&#x20;
+
+<mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --mythical
@@ -1476,6 +1664,8 @@ p!pokemon --level = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:green;">learnset</mark>
+
 </details>
 
 #### --name `<name>`
@@ -1515,6 +1705,8 @@ p!pokemon --level = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -1563,6 +1755,8 @@ p!pokemon --level = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -1617,6 +1811,8 @@ p!pokemon --level = 25
 
 <mark style="color:red;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 <details>
@@ -1665,6 +1861,8 @@ p!auction search --order iv-
 
 <mark style="color:red;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --orderd
@@ -1692,6 +1890,46 @@ p!auction search --order iv-
 <mark style="color:red;">trade addall</mark>
 
 <mark style="color:red;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
+
+</details>
+
+#### --paradox
+
+> Filter for [paradox pokémon](https://bulbapedia.bulbagarden.net/wiki/Paradox\_Pok%C3%A9mon). E.g. Scream Tail.
+
+<details>
+
+<summary>Commonly used aliases</summary>
+
+\--par
+
+</details>
+
+<details>
+
+<summary>Commands</summary>
+
+<mark style="color:green;">auction search</mark>
+
+<mark style="color:green;">favoriteall</mark>
+
+<mark style="color:green;">market search</mark>
+
+<mark style="color:green;">nickall</mark>
+
+<mark style="color:green;">pokedex</mark>
+
+<mark style="color:green;">pokemon</mark>
+
+<mark style="color:green;">releaseall</mark>
+
+<mark style="color:green;">trade addall</mark>&#x20;
+
+<mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -1739,6 +1977,8 @@ p!auction search --order iv-
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --quadruple `<integer>`
@@ -1785,6 +2025,8 @@ p!auction search --order iv-
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --region `<region>`
@@ -1822,6 +2064,8 @@ p!auction search --order iv-
 <mark style="color:green;">trade addall</mark>
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -1880,6 +2124,8 @@ p!auction search --order iv-
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --skip `<integer>`
@@ -1917,6 +2163,8 @@ p!auction search --order iv-
 <mark style="color:green;">trade addall</mark>
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -1977,6 +2225,8 @@ p!trade addall --name Ralts --skip 3
 <mark style="color:green;">trade addall</mark>
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -2047,6 +2297,8 @@ p!pokemon --spatkiv = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 <details>
@@ -2105,6 +2357,8 @@ p!pokemon --spdefiv = 25
 <mark style="color:green;">trade addall</mark>
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>
 
@@ -2181,6 +2435,8 @@ p!pokemon --spdiv = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:red;">learnset</mark>
+
 </details>
 
 #### --type `<type>`
@@ -2218,6 +2474,8 @@ p!pokemon --spdiv = 25
 <mark style="color:green;">trade addall</mark>&#x20;
 
 <mark style="color:green;">unfavoriteall</mark>
+
+<mark style="color:green;">learnset</mark>
 
 </details>
 
@@ -2280,6 +2538,8 @@ p!pokemon --spdiv = 25
 
 <mark style="color:green;">unfavoriteall</mark>
 
+<mark style="color:green;">learnset</mark>
+
 </details>
 
 #### --uncaught
@@ -2317,5 +2577,7 @@ p!pokemon --spdiv = 25
 <mark style="color:red;">trade addall</mark>
 
 <mark style="color:red;">unfavoriteall</mark>
+
+<mark style="color:red;">learnset</mark>
 
 </details>

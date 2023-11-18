@@ -25,8 +25,8 @@ These events mean that the community have to catch as many Pokémon as they can 
 ![Autumn Grotle being caught from the Autumn event, 2021](../.gitbook/assets/image.png)
 
 **-The Halloween Event, 2020-**\
-****\
-****This event involved quests, the only event so far which has been this way. The community had to complete a set of quests to earn candies, which could be traded in for multiple things. With enough candies, you could pick from Halloween crate boxes, embeds, and Shadow Lugia (which also spawned very rarely normally). A badge was awarded to those who completed every quest.
+\
+This event involved quests, the only event so far which has been this way. The community had to complete a set of quests to earn candies, which could be traded in for multiple things. With enough candies, you could pick from Halloween crate boxes, embeds, and Shadow Lugia (which also spawned very rarely normally). A badge was awarded to those who completed every quest.
 
 ![Halloween Event 2020 quests](<../.gitbook/assets/image (11) (1).png>)
 
@@ -129,7 +129,7 @@ Ghost King Blacephalon\
 United Pikachu\
 \
 **Christmas Event 2021:**\
-****Rudolph Vulpix\
+Rudolph Vulpix\
 Angel Diglett\
 Candy Cane Marowak\
 Mrs. Claus Jynx\
@@ -171,4 +171,3 @@ _(If you've since helped with the creation of event Pokémon and aren't on this 
 **Want to contribute to events? Here's how!**\
 If you have any ideas, you can message Anoea#3441, Dagger\_Mace#5953, BlueLego#2332, or any of the admins. If you already have your Pokémon idea drawn out, we'd love to see it! Please post it with a message in our DMs, along with any other ideas you have. Alternatively, if you'd like to help out with the art, please DM any of the listed names with some examples of the art you've done in your own time so we can get a feel of your style. For any further questions, please message any of the listed names.&#x20;
 
-****

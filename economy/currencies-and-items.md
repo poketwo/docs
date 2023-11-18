@@ -13,7 +13,7 @@ Pokétwo has 2 different currencies: Pokécoins (PC) and shards. You can check y
 PC is the main currency, used for the majority of services including _Market, Auctions,_ and most of the _Shop._ As it is tradable, it can also be used in _Trading_.&#x20;
 
 Shards are the premium currency which can be bought for 200 PC each, and are used to buy items such as redeems in page 7 of _The Shop._ It is non-tradable and can be bought with real currency at poketwo.net/store`.`\
-__
+
 
 ## **Ways to Earn Money**
 

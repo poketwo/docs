@@ -1,7 +1,7 @@
 ---
 description: >-
-  Pokémon are here! On this page you will learn everything about wild pokémon
-  spawns, how to guess and catch them, and so on.
+  Pokémon are here! In this section you will learn everything about the wild
+  spawns, how to catch Pokémon, how to guess them, and so on.
 ---
 
 # Spawning & Catching
@@ -44,7 +44,7 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 7. `@​Pokétwo#8236 [shinyhunt|sh] <pokémon-name>` - To start [shinyhunting](spawning-and-catching.md#shiny-hunting) a pokémon. WIll discard current streak after confirmation.
 8. `@​Pokétwo#8236 [pokedex|d] [pokémon-name]` - To view the pokédex of a pokémon
 9. `@​Pokétwo#8236 buy incense` - To buy an [incense](spawning-and-catching.md#incenses) **in the current channel**
-10. `@​Pokétwo#8236 stopincense` - To <mark style="color:red;">**PERMANENTLY**</mark>** ** stop an incense active in the current channel
+10. `@​Pokétwo#8236 stopincense` - To <mark style="color:red;">**PERMANENTLY**</mark> stop an incense active in the current channel
 11. `@​Pokétwo#8236 redirect <channel-names|reset>` - To [redirect ](spawning-and-catching.md#setting-spawn-channels)natural spawns to specific channels, or to reset the set spawn channels
 
 ### Spawning Pokémon
@@ -76,36 +76,36 @@ Here is a list of links you can visit in order to find up-to-date spawn chances 
 
 {% tabs %}
 {% tab title="Base pokémon" %}
-* [**Searchable list of All Pokémon**](https://gist.github.com/WitherredAway/1bc525b05f4cd52555a2a18c331e0cf9)****
-* ****[**Starter Pokémon**](https://gist.github.com/WitherredAway/1bdee3b3fb2a29ae8f83ebdd70013456)****
+* [**Searchable list of All Pokémon**](https://gist.github.com/WitherredAway/1bc525b05f4cd52555a2a18c331e0cf9)
+* [**Starter Pokémon**](https://gist.github.com/WitherredAway/1bdee3b3fb2a29ae8f83ebdd70013456)
 
 
 
-1. ****[**Mythical Pokémon**](https://gist.github.com/ba3f32d61cfdaf857c8541d168c21698)****
-2. ****[**Legendary Pokémon**](https://gist.github.com/af25f3f398fbc0441fd0248a5ca3faad)****
-3. ****[**Ultra Beast Pokémon**](https://gist.github.com/ba3f1b7063e939d8119286bbeb8e8080)
+1. [**Mythical Pokémon**](https://gist.github.com/ba3f32d61cfdaf857c8541d168c21698)
+2. [**Legendary Pokémon**](https://gist.github.com/af25f3f398fbc0441fd0248a5ca3faad)
+3. [**Ultra Beast Pokémon**](https://gist.github.com/ba3f1b7063e939d8119286bbeb8e8080)
 {% endtab %}
 
 {% tab title="Forms" %}
-1. ****[**Alolan Pokémon**](https://gist.github.com/7c3cdaaa36c38d2fb2bd716652b09d00)****
-2. ****[**Galarian Pokémon**](https://gist.github.com/4fb6735b2241506105af52626953618b)****
-3. ****[**Hisuian Pokémon**](https://gist.github.com/4bcf5ef86577b14aa464a3376adb430e)****
+1. [**Alolan Pokémon**](https://gist.github.com/7c3cdaaa36c38d2fb2bd716652b09d00)
+2. [**Galarian Pokémon**](https://gist.github.com/4fb6735b2241506105af52626953618b)
+3. [**Hisuian Pokémon**](https://gist.github.com/4bcf5ef86577b14aa464a3376adb430e)
 
-****
 
-* ****[**Latest event pokémon**](https://gist.github.com/caf8fc84a8072cfcd1d07b2d18730d5e)****
+
+* [**Latest event pokémon**](https://gist.github.com/caf8fc84a8072cfcd1d07b2d18730d5e)
 {% endtab %}
 
 {% tab title="Regional Pokémon" %}
-1. ****[**Kanto**](https://gist.github.com/2c48fc73eb1a9e94737634092e1c62e3) **** \[`168`]
-2. ****[**Johto** ](https://gist.github.com/4456e7da504e9ff5ddc653cd3bc4e76c)\[`105`]
-3. ****[**Hoenn**](https://gist.github.com/ce4facd1f383676bb745cece67fbac50) \[`143`]
-4. ****[**Sinnoh** ](https://gist.github.com/e9a435742bea160eb588c8812e0730c4)\[`109`]
-   * ****[**Hisui** ](https://gist.github.com/46bbc638f81687aa42709a83078aa1f8)\[`7`]
-5. ****[**Unova** ](https://gist.github.com/6af2072d0229c3f5582b32f20b65f2f5)\[`166`]
-6. ****[**Kalos** ](https://gist.github.com/849a6b64a35a505c7afb2eb276eda18d)\[`77`]
-7. ****[**Alola** ](https://gist.github.com/a55287b7bff61b90b3182bca602b062a)\[`108`]
-8. ****[**Galar** ](https://gist.github.com/f4d75c84e7ed4ce57273b6ef860a5a54)\[`90`]
+1. [**Kanto**](https://gist.github.com/2c48fc73eb1a9e94737634092e1c62e3) \[`168`]
+2. [**Johto** ](https://gist.github.com/4456e7da504e9ff5ddc653cd3bc4e76c)\[`105`]
+3. [**Hoenn**](https://gist.github.com/ce4facd1f383676bb745cece67fbac50) \[`143`]
+4. [**Sinnoh** ](https://gist.github.com/e9a435742bea160eb588c8812e0730c4)\[`109`]
+   * [**Hisui** ](https://gist.github.com/46bbc638f81687aa42709a83078aa1f8)\[`7`]
+5. [**Unova** ](https://gist.github.com/6af2072d0229c3f5582b32f20b65f2f5)\[`166`]
+6. [**Kalos** ](https://gist.github.com/849a6b64a35a505c7afb2eb276eda18d)\[`77`]
+7. [**Alola** ](https://gist.github.com/a55287b7bff61b90b3182bca602b062a)\[`108`]
+8. [**Galar** ](https://gist.github.com/f4d75c84e7ed4ce57273b6ef860a5a54)\[`90`]
 {% endtab %}
 {% endtabs %}
 
@@ -115,7 +115,7 @@ To catch a pokémon, when one spawns, you must guess which pokémon it is. This 
 
 After guessing the pokémon, run the command `@​Pokétwo#8236 [catch|c] <guess>` to attempt to catch it.
 
-Failed attempts do no make the pokémon despawn, you can try as many times as you want as long as nobody else catches it.
+Failed attempts do not make the pokémon despawn, you can try as many times as you want as long as nobody else catches it or another pokémon does not spawn in the channel.
 
 ![Catching a Marill](<../.gitbook/assets/Screenshot 2023-02-23 191240 (1).png>)
 
@@ -274,7 +274,7 @@ An incense spawns pokémon every **20 seconds** for **1 hour**. In total, there 
 * Go to the channel in which you want to buy the incense.
 * Use the command `@​Pokétwo#8236 buy incense` .
 * Press the <mark style="background-color:green;">**Confirm**</mark> button. If you wish to cancel, press the <mark style="background-color:red;">**Cancel**</mark> button.
-* The incense will now begin to spawn. At any point in the incense, if you wish to <mark style="color:red;">**PERMANENTLY**</mark>** ** stop the incense, you can do so by using the `@​Pokétwo#8236 stopincense` command and pressing <mark style="background-color:green;">**Confirm**</mark>.
+* The incense will now begin to spawn. At any point in the incense, if you wish to <mark style="color:red;">**PERMANENTLY**</mark> stop the incense, you can do so by using the `@​Pokétwo#8236 stopincense` command and pressing <mark style="background-color:green;">**Confirm**</mark>.
 * You can do more than one incense at once, but in different channels. **You can not stack incenses.**
 
 ### Setting spawn channels

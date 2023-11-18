@@ -21,7 +21,7 @@ If you are looking to search The Market for Pokémon, you can use **p!m s** to s
 \
 \
 **Market "Infoing" -** \
-****When you see a Pokémon you might be interested in, and want to see its stats, you can use **p!m info \<listing number>** and the pokemon's info will show up, displaying stats, experience, and item as if it were your own.\
+When you see a Pokémon you might be interested in, and want to see its stats, you can use **p!m info \<listing number>** and the pokemon's info will show up, displaying stats, experience, and item as if it were your own.\
 \
 (For reference a listing's ID is the number to the left of the small Pokémon's icon. For example, on this listing:![](<../.gitbook/assets/image (23).png>)The ID is 16214200)\
 \
@@ -41,8 +41,8 @@ This Pokémon's number is 1731, so by using **p!m add 1731 100** I can add this 
 \
 \
 **Market Removing -** \
-If you want to remove a Pokémon you own on The Market because you want it back, you can use **p!m r \<listing ID>**. After that, a confirmation message will pop up and ask you if you want to remove your Pokémon. You can click **Confirm** and your Pokémon will come back to you, or you can click **Cancel** and your Pokémon will stay up on The Market. If you want to find a **** Pokémon you own on The Market, you can use **p!m s --mine** to filter the results down to only Pokémon you own on The Market. For Example:![](<../.gitbook/assets/image (32).png>)\
-If this is a Pokémon you own on the market, you can use **p!m r 16214200**, and after clicking the confirmation message, your **** Pokémon will come back to you.\
+If you want to remove a Pokémon you own on The Market because you want it back, you can use **p!m r \<listing ID>**. After that, a confirmation message will pop up and ask you if you want to remove your Pokémon. You can click **Confirm** and your Pokémon will come back to you, or you can click **Cancel** and your Pokémon will stay up on The Market. If you want to find a Pokémon you own on The Market, you can use **p!m s --mine** to filter the results down to only Pokémon you own on The Market. For Example:![](<../.gitbook/assets/image (32).png>)\
+If this is a Pokémon you own on the market, you can use **p!m r 16214200**, and after clicking the confirmation message, your Pokémon will come back to you.\
 \
 
 
@@ -63,5 +63,5 @@ If this is a Pokémon you own on the market, you can use **p!m r 16214200**, and
 
 
 
-****
+
 

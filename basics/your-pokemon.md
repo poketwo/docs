@@ -166,7 +166,7 @@ You can select a pokémon using the command `@​Pokétwo#8236 [select|s] <poké
 
 Whenever you send messages (with interval **1.5 seconds**), the pokémon will gain a random amount of XP between **10** and **40**. Commands do not count.
 
-When your selected pokémon reaches the XP requirement, it will level up to the next level, resetting the XP and increasing the XP requirement **by 25**. The XP requirement starts from **275** (at level 1) **** and ends at **2750** (at level 100).
+When your selected pokémon reaches the XP requirement, it will level up to the next level, resetting the XP and increasing the XP requirement **by 25**. The XP requirement starts from **275** (at level 1) and ends at **2750** (at level 100).
 
 #### Preventing XP gain
 

@@ -15,7 +15,7 @@ At the moment, auctions are only available on the Official Poketwo Community ser
 The following are the basic auction commands :\
 \
 **Starting an auction**\
-****P!a start (Pokemon ID) (Duration) (Starting bid) (Bid increment) Ex. P!a start 297 12h 1000 100
+P!a start (Pokemon ID) (Duration) (Starting bid) (Bid increment) Ex. P!a start 297 12h 1000 100
 
 * Auctioning pokemon 297
 * The auction will last for 12 hours
@@ -69,4 +69,3 @@ Auction ID are the numbers on the left side when you're searching for auctions\
 \
 \
 \
-****
