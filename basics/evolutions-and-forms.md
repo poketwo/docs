@@ -7,7 +7,7 @@ description: >-
 # Evolutions and Forms
 
 {% hint style="warning" %}
-is site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
+This site is an early **work in progress**. Many pages may be missing or incomplete. Please let us know at [discord.gg/poketwo](https://discord.gg/poketwo) if you would like to help write or improve a page.
 {% endhint %}
 
 ### Contents
@@ -244,6 +244,8 @@ In the official pokémon games, some pokémon need a certain level of friendship
 * <img src="../.gitbook/assets/image (62).png" alt="" data-size="line"> Growlithe --> <img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> Arcanine
 * <img src="../.gitbook/assets/image (51).png" alt="" data-size="line"> Pansear --> <img src="../.gitbook/assets/image (76).png" alt="" data-size="line"> Simisear
 * <img src="../.gitbook/assets/image (41).png" alt="" data-size="line"> Eevee --> <img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> Flareon
+* <img src="../.gitbook/assets/image (320).png" alt="" data-size="line"> Hisuian Growlithe --> <img src="../.gitbook/assets/image (319).png" alt="" data-size="line"> Hisuian Arcanine
+* <img src="../.gitbook/assets/image (321).png" alt="" data-size="line"> Capsakid --> <img src="../.gitbook/assets/image (322).png" alt="" data-size="line"> Scovillain
 
 #### <img src="../.gitbook/assets/725820040506638357.webp" alt="" data-size="line"> Thunder Stone
 
@@ -252,6 +254,9 @@ In the official pokémon games, some pokémon need a certain level of friendship
 * <img src="../.gitbook/assets/image (33).png" alt="" data-size="line"> Pikachu --> <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> Raichu
 * <img src="../.gitbook/assets/image (41).png" alt="" data-size="line"> Eevee --> <img src="../.gitbook/assets/image (104).png" alt="" data-size="line"> Jolteon
 * <img src="../.gitbook/assets/image (101).png" alt="" data-size="line"> Eelektrik --> <img src="../.gitbook/assets/image (60).png" alt="" data-size="line"> Eelektross&#x20;
+* <img src="../.gitbook/assets/image (323).png" alt="" data-size="line"> Magneton --> <img src="../.gitbook/assets/image (324).png" alt="" data-size="line"> Magnezone
+* <img src="../.gitbook/assets/image (329).png" alt="" data-size="line"> Nosepass --> <img src="../.gitbook/assets/image (330).png" alt="" data-size="line"> Probopass
+* <img src="../.gitbook/assets/image (333).png" alt="" data-size="line"> Tadbulb --> <img src="../.gitbook/assets/image (334).png" alt="" data-size="line"> Bellibolt
 
 #### <img src="../.gitbook/assets/725820040917811200.webp" alt="" data-size="line"> Water Stone
 
@@ -274,6 +279,7 @@ In the official pokémon games, some pokémon need a certain level of friendship
 * <img src="../.gitbook/assets/image (64).png" alt="" data-size="line"> Exeggcute --> <img src="../.gitbook/assets/image (84).png" alt="" data-size="line"> Exeggutor
 * <img src="../.gitbook/assets/image (39).png" alt="" data-size="line"> Nuzleaf --> <img src="../.gitbook/assets/image (88).png" alt="" data-size="line"> Shiftry
 * <img src="../.gitbook/assets/image (47).png" alt="" data-size="line"> Pansage --> <img src="../.gitbook/assets/image (77).png" alt="" data-size="line"> Simisage
+* <img src="../.gitbook/assets/image (335).png" alt="" data-size="line"> Hisuian Voltorb --> <img src="../.gitbook/assets/image (336).png" alt="" data-size="line"> Hisuian Electrode
 
 #### <img src="../.gitbook/assets/725820040213168179.webp" alt="" data-size="line">Ice Stone
 
