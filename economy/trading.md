@@ -13,7 +13,7 @@ To initiate a trade:\
 
 Alias p!trade @Var\_Monke&#x20;
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
 &#x20;The mentioned user has to click on the :white\_check\_mark:, which will start the trade.
 
@@ -30,7 +30,7 @@ Alias p!t a \<pokémon\_id>
 \
 &#x20;                                        Adds the pokémon with the **ID 4565**.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (2).png>)
 
 #### **p!trade remove \<pok**é**mon\_id> - Removes the pok**é**mon with the mentioned ID**
 
@@ -46,7 +46,7 @@ Alias p!t r \<pokémon\_id>
 \
 Alias p!t aa \[[Search Filters](../intermediate-topics/search-filters.md)]&#x20;
 
-![Adds 10 pokemon from the category chosen.](<../.gitbook/assets/image (2).png>)
+![Adds 10 pokemon from the category chosen.](<../.gitbook/assets/image (2) (2).png>)
 
 {% hint style="info" %}
 Items cannot be removed in bulk.
@@ -57,14 +57,14 @@ Items cannot be removed in bulk.
 **To  add Pokecoins, use p!trade add pc \<pokecoin\_amount>**\
 Alias p!t a pc \<pokecoin\_amount>
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 **To remove Pokecoins, use p!trade remove pc \<pokecoin\_amount>**\
 Alias p!t a pc \<pokecoin\_amount>
 
 <div align="left">
 
-<img src="../.gitbook/assets/image (9).png" alt="">
+<img src="../.gitbook/assets/image (9) (2).png" alt="">
 
 </div>
 {% endtab %}
@@ -73,7 +73,7 @@ Alias p!t a pc \<pokecoin\_amount>
 **To add redeems, use p!trade add redeem \<redeem\_amount>**\
 Alias p!t a r \<redeem\_amount>
 
-![In this example, p!t a r 1 adds 1 redeem to the trade. It stands for p!trade add redeem 1.](<../.gitbook/assets/image (18).png>)
+![In this example, p!t a r 1 adds 1 redeem to the trade. It stands for p!trade add redeem 1.](<../.gitbook/assets/image (18) (1).png>)
 
 **To remove redeems, us p!trade remove redeem \<redeem\_amount>** \
 Alias p!t r r \<redeem\_amount>

@@ -7,8 +7,8 @@
 
 * [Inviting Pokétwo](basics/inviting-poketwo.md)
 * [Spawning & Catching](basics/spawning-and-catching.md)
-* [Your Pokémon](basics/your-pokemon.md)
-* [Evolving Pokémon](basics/evolving-pokemon.md)
+* [Your Pokémon](basics/viewing-your-pokemon.md)
+* [Evolutions and Forms](basics/evolutions-and-forms.md)
 
 ## Intermediate Topics
 

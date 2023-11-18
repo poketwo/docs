@@ -21,7 +21,7 @@ P!a start (Pokemon ID) (Duration) (Starting bid) (Bid increment) Ex. P!a start 2
 * The auction will last for 12 hours
 * 1000pc starting bid
 * 100pc bid increment\
-  ![](<../.gitbook/assets/image (30).png>)\
+  ![](<../.gitbook/assets/image (30) (1).png>)\
   \
 
 
@@ -63,7 +63,7 @@ Ex. P!a bid 103483 12000
 Do note that **you cant cancel your bid**, so always double-check!
 
 Auction ID are the numbers on the left side when you're searching for auctions\
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 \
 \

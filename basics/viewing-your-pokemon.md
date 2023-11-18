@@ -13,29 +13,29 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 
 ### Contents
 
-1. [#list-of-related-commands](your-pokemon.md#list-of-related-commands "mention")
-2. [#introduction](your-pokemon.md#introduction "mention")
-3. [#viewing-your-inventory](your-pokemon.md#viewing-your-inventory "mention")
-   1. [#navigating](your-pokemon.md#navigating "mention")
-   2. [#filtering](your-pokemon.md#filtering "mention")
-   3. [#ordering](your-pokemon.md#ordering "mention")
-   4. [#reindexing](your-pokemon.md#reindexing "mention")
-4. [#selecting-pokemon](your-pokemon.md#selecting-pokemon "mention")
-   1. [#preventing-xp-gain](your-pokemon.md#preventing-xp-gain "mention")
-   2. [#preventing-evolution](your-pokemon.md#preventing-evolution "mention")
-5. [#infoing-pokemon](your-pokemon.md#infoing-pokemon "mention")
-6. [#favoriting-and-unfavoriting](your-pokemon.md#favoriting-and-unfavoriting "mention")
-   1. [#favoriting-in-bulk](your-pokemon.md#favoriting-in-bulk "mention")
-   2. [#unfavoriting-in-bulk](your-pokemon.md#unfavoriting-in-bulk "mention")
-7. [#nicknaming](your-pokemon.md#nicknaming "mention")
-   1. [#nicknaming-in-bulk](your-pokemon.md#nicknaming-in-bulk "mention")
-8. [#releasing](your-pokemon.md#releasing "mention")
-   1. [#releasing-in-bulk](your-pokemon.md#releasing-in-bulk "mention")
+1. [#list-of-related-commands](viewing-your-pokemon.md#list-of-related-commands "mention")
+2. [#introduction](viewing-your-pokemon.md#introduction "mention")
+3. [#viewing-your-inventory](viewing-your-pokemon.md#viewing-your-inventory "mention")
+   1. [#navigating](viewing-your-pokemon.md#navigating "mention")
+   2. [#filtering](viewing-your-pokemon.md#filtering "mention")
+   3. [#ordering](viewing-your-pokemon.md#ordering "mention")
+   4. [#reindexing](viewing-your-pokemon.md#reindexing "mention")
+4. [#selecting-pokemon](viewing-your-pokemon.md#selecting-pokemon "mention")
+   1. [#preventing-xp-gain](viewing-your-pokemon.md#preventing-xp-gain "mention")
+   2. [#preventing-evolution](viewing-your-pokemon.md#preventing-evolution "mention")
+5. [#infoing-pokemon](viewing-your-pokemon.md#infoing-pokemon "mention")
+6. [#favoriting-and-unfavoriting](viewing-your-pokemon.md#favoriting-and-unfavoriting "mention")
+   1. [#favoriting-in-bulk](viewing-your-pokemon.md#favoriting-in-bulk "mention")
+   2. [#unfavoriting-in-bulk](viewing-your-pokemon.md#unfavoriting-in-bulk "mention")
+7. [#nicknaming](viewing-your-pokemon.md#nicknaming "mention")
+   1. [#nicknaming-in-bulk](viewing-your-pokemon.md#nicknaming-in-bulk "mention")
+8. [#releasing](viewing-your-pokemon.md#releasing "mention")
+   1. [#releasing-in-bulk](viewing-your-pokemon.md#releasing-in-bulk "mention")
 
 ### List of related commands
 
 1. `@​Pokétwo#8236 [pokemon|p] [filters]` - To view your pokémon inventory
-2. `@​Pokétwo#8236 [info|i] [pokémon-id]` - To view the info of a pokemon. Shows currently selected pokémon if no ID provided
+2. `@​Pokétwo#8236 [info|i] [pokémon-id]` - To view the info of a pokemon. Shows currently selected pokémon if no ID is provided
 3. `@​Pokétwo#8236 [order|or] [sorting-method]` - To sort your pokémon inventory
 4. `@​Pokétwo#8236 reindex` - To reindex your pokémons' IDs to fix missing IDs or other such problems
 5. `@​Pokétwo#8236 [select|s] <pokémon-id>` - To select a pokémon
@@ -44,7 +44,7 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 
 ### Introduction
 
-You will, over the course of playing Pokétwo, acquire many different pokémon from many different sources such as catching, market, auction, trading, etc. On this  page you will learn the different ways to view and interact with those pokémon.
+You will, over the course of playing Pokétwo, acquire many different pokémon from many different sources such as catching, market, auction, trading, etc. On this page, you will learn the different ways to view and interact with those pokémon.
 
 ### Viewing Your Inventory
 
@@ -148,7 +148,7 @@ Add a `+` or `-` to the end of either of these to sort by `ascending` or `descen
 
 Sometimes when releasing, trading, selling, or other ways in which you can remove/acquire pokémon from your inventory, there may be problems with the IDs of your pokémon such as skipping an ID, 2 pokémon having the same ID, some IDs missing, etc.&#x20;
 
-Such problems with pokémons' IDs can be fixed using the command `@​Pokétwo#8236 reindex`. After you send the command, you will be asking to wait until it is complete. The time it takes to reindex depends on how many pokémon you have.
+Such problems with pokémons' IDs can be fixed using the command `@​Pokétwo#8236 reindex`. After you send the command, you will be asked to wait until it is complete. The time it takes to reindex depends on how many pokémon you have.
 
 Example:
 
@@ -162,17 +162,17 @@ Now, we can fix this using the `reindex` command, shown as follows:
 
 ### Selecting Pokémon
 
-You can select a pokémon using the command `@​Pokétwo#8236 [select|s] <pokémon-id>`. Your selected pokémon levels up from your chat activity. Your selected pokémon will be the default for commands that need pokémon ID but one isn't passed. Your selected pokémon will also be safe from being released, sold or traded.
+You can select a pokémon using the command `@​Pokétwo#8236 [select|s] <pokémon-id>`. Your selected pokémon levels up from your chat activity. Your selected pokémon will be the default for commands that need pokémon ID but one isn't passed. Your selected pokémon will also be safe from being released, sold, or traded.
 
-Whenever you send messages (with interval **1.5 seconds**), the pokémon will gain a random amount of XP between **10** and **40**. Commands do not count.
+Whenever you send messages (with an interval of **1.5 seconds**), the pokémon will gain a random amount of XP between **10** and **40**. Commands do not count.
 
-When your selected pokémon reaches the XP requirement, it will level up to the next level, resetting the XP and increasing the XP requirement **by 25**. The XP requirement starts from **275** (at level 1) and ends at **2750** (at level 100).
+When your selected pokémon reaches the XP requirement, it will level up to the next level, resetting the XP and increasing the XP requirement by **25**. The XP requirement starts from **275** (at level 1) and ends at **2750** (at level 100).
 
 #### Preventing XP gain
 
 Some pokémon like mint shinies may lose value if there is XP on them. You can prevent your selected pokémon from gaining XP by buying and equipping an XP blocker for **150 pokécoins** using `@​Pokétwo#8236 buy xp blocker`.
 
-A safe way to equip an XP blocker on a pokèmon is to buy the XP blocker on a different pokémon and then moving it, because otherwise you may accidentally gain XP:
+A safe way to equip an XP blocker on a pokèmon is to buy the XP blocker on a different pokémon and then move it, because otherwise, you may accidentally gain XP:
 
 * Select a different pokémon using `@​Pokétwo#8236 select <pokémon-id>`
 * Buy an XP blocker using `@​Pokétwo#8236 buy xp blocker`
@@ -188,13 +188,13 @@ You can see the info of your pokémon such as IVs, level, nature, etc using the 
 
 <figure><img src="../.gitbook/assets/e Screenshot 2023-02-26 182644.png" alt=""><figcaption></figcaption></figure>
 
-In the following sections, the commands support input of multiple IDs. You can use this tool that I have made, to copy IDs from embeds sent by Pokétwo. Just copy paste the embed into this tool and it will automatically extract the IDs and let you copy them all or individually.
+In the following sections, the commands support the input of multiple IDs. You can use this tool that I have made, to copy IDs from embeds sent by Pokétwo. Just copy and paste the embed into this tool and it will automatically extract the IDs and let you copy them all or individually.
 
 {% embed url="https://witherredaway.github.io/tools/ids/" %}
 
 ### Favoriting and Unfavoriting
 
-You may have noticed some pokémon having a :hearts: emoji next to their name. This means that that pokémon is favorited and protected from removal in any way such as releasing, selling, trading, etc.
+You may have noticed some pokémon having a :hearts: emoji next to their name. This means that pokémon is favorited and protected from removal in any way such as releasing, selling, trading, etc.
 
 To favorite one or more pokémon by ID, use the command `@​Pokétwo#8236 [favorite|fav] <pokémon-ids>`. E.g. `@​Pokétwo#8236 favorite 123 4567 89`.&#x20;
 
@@ -296,44 +296,44 @@ You can also nickname pokémon in bulk by using the command `@​Pokétwo#8236 [
 
 <summary><code>nicknameall</code> supported filters</summary>
 
-1. [--alolan](your-pokemon.md#alolan)
-2. [--atkiv](your-pokemon.md#atkiv-less-than-integer-greater-than)
-3. [--defiv](your-pokemon.md#defiv-less-than-integer-greater-than)
-4. [--embedcolor](your-pokemon.md#embedcolor)
-5. [--event](your-pokemon.md#event)
-6. [--favorite](your-pokemon.md#favorite)
-7. [--galarian](your-pokemon.md#galarian)
-8. [--hextuple](your-pokemon.md#hextuple-less-than-integer-greater-than)
-9. [--hpiv](your-pokemon.md#hpiv-less-than-integer-greater-than)
-10. [--iv](your-pokemon.md#iv-less-than-integer-decimal-greater-than)
-11. [--legendary](your-pokemon.md#legendary)
-12. [--level](your-pokemon.md#level-less-than-integer-greater-than)
-13. [--limit](your-pokemon.md#limit-less-than-integer-greater-than)
-14. [--mega](your-pokemon.md#mega)
-15. [--mythical](your-pokemon.md#mythical)
-16. [--name](your-pokemon.md#name-less-than-name-greater-than)
-17. [--nickname](your-pokemon.md#nickname-less-than-nickname-greater-than)
-18. [--pentuple](your-pokemon.md#pentuple-less-than-integer-greater-than)
-19. [--quadruple](your-pokemon.md#quadruple-less-than-integer-greater-than)
-20. [--region](your-pokemon.md#region-less-than-region-greater-than)
-21. [--shiny](your-pokemon.md#shiny)
-22. [--skip](your-pokemon.md#skip-less-than-integer-greater-than)
-23. [--spatkiv](your-pokemon.md#spatkiv-less-than-integer-greater-than)
-24. [--spdefiv](your-pokemon.md#spdefiv-less-than-integer-greater-than)
-25. [--spdiv](your-pokemon.md#spdiv-less-than-integer-greater-than)
-26. [--triple](your-pokemon.md#triple-less-than-integer-greater-than)
-27. [--type](your-pokemon.md#type-less-than-type-greater-than)
-28. [--ub](your-pokemon.md#ub)
+1. [--alolan](viewing-your-pokemon.md#alolan)
+2. [--atkiv](viewing-your-pokemon.md#atkiv-less-than-integer-greater-than)
+3. [--defiv](viewing-your-pokemon.md#defiv-less-than-integer-greater-than)
+4. [--embedcolor](viewing-your-pokemon.md#embedcolor)
+5. [--event](viewing-your-pokemon.md#event)
+6. [--favorite](viewing-your-pokemon.md#favorite)
+7. [--galarian](viewing-your-pokemon.md#galarian)
+8. [--hextuple](viewing-your-pokemon.md#hextuple-less-than-integer-greater-than)
+9. [--hpiv](viewing-your-pokemon.md#hpiv-less-than-integer-greater-than)
+10. [--iv](viewing-your-pokemon.md#iv-less-than-integer-decimal-greater-than)
+11. [--legendary](viewing-your-pokemon.md#legendary)
+12. [--level](viewing-your-pokemon.md#level-less-than-integer-greater-than)
+13. [--limit](viewing-your-pokemon.md#limit-less-than-integer-greater-than)
+14. [--mega](viewing-your-pokemon.md#mega)
+15. [--mythical](viewing-your-pokemon.md#mythical)
+16. [--name](viewing-your-pokemon.md#name-less-than-name-greater-than)
+17. [--nickname](viewing-your-pokemon.md#nickname-less-than-nickname-greater-than)
+18. [--pentuple](viewing-your-pokemon.md#pentuple-less-than-integer-greater-than)
+19. [--quadruple](viewing-your-pokemon.md#quadruple-less-than-integer-greater-than)
+20. [--region](viewing-your-pokemon.md#region-less-than-region-greater-than)
+21. [--shiny](viewing-your-pokemon.md#shiny)
+22. [--skip](viewing-your-pokemon.md#skip-less-than-integer-greater-than)
+23. [--spatkiv](viewing-your-pokemon.md#spatkiv-less-than-integer-greater-than)
+24. [--spdefiv](viewing-your-pokemon.md#spdefiv-less-than-integer-greater-than)
+25. [--spdiv](viewing-your-pokemon.md#spdiv-less-than-integer-greater-than)
+26. [--triple](viewing-your-pokemon.md#triple-less-than-integer-greater-than)
+27. [--type](viewing-your-pokemon.md#type-less-than-type-greater-than)
+28. [--ub](viewing-your-pokemon.md#ub)
 
 </details>
 
-Similarly, you can un-nickname pokémon in bulk by nicknaming them `reset` using the command `@​Pokétwo#8236 [nicknameall|nickall|na] reset [filters]` and use filters to un-nickname groups of pokémon.
+Similarly, you can un-nickname pokémon in bulk by nicknaming them `reset` using the command `@​Pokétwo#8236 [nicknameall|nickall|na] reset [filters]` and using filters to un-nickname groups of pokémon.
 
 ### Releasing
 
 At one point when you have been acquiring pokémon a lot, you will find pokémon that are simply useless to you that you want to get rid of to debloat your inventory.&#x20;
 
-Such can be done using the `@​Pokétwo#8236 release <pokémon-ids>` where you can provide multiple IDs to release for **2 pokécoins** each. **Releasing a pokémon will permanently remove it from the bot, so please use with caution.**
+Such can be done using the `@​Pokétwo#8236 release <pokémon-ids>` where you can provide multiple IDs to release for **2 pokécoins** each. **Releasing a pokémon will permanently remove it from the bot, so please use it with caution.**
 
 #### Releasing in bulk
 
@@ -343,32 +343,32 @@ You can also release pokémon in bulk by using the command `@​Pokétwo#8236 [r
 
 <summary><code>releaseall</code> supported filters</summary>
 
-1. [--alolan](your-pokemon.md#alolan)
-2. [--atkiv](your-pokemon.md#atkiv-less-than-integer-greater-than)
-3. [--defiv](your-pokemon.md#defiv-less-than-integer-greater-than)
-4. [--embedcolor](your-pokemon.md#embedcolor)
-5. [--event](your-pokemon.md#event)
-6. [--galarian](your-pokemon.md#galarian)
-7. [--hextuple](your-pokemon.md#hextuple-less-than-integer-greater-than)
-8. [--hpiv](your-pokemon.md#hpiv-less-than-integer-greater-than)
-9. [--iv](your-pokemon.md#iv-less-than-integer-decimal-greater-than)
-10. [--legendary](your-pokemon.md#legendary)
-11. [--level](your-pokemon.md#level-less-than-integer-greater-than)
-12. [--limit](your-pokemon.md#limit-less-than-integer-greater-than)
-13. [--mega](your-pokemon.md#mega)
-14. [--mythical](your-pokemon.md#mythical)
-15. [--name](your-pokemon.md#name-less-than-name-greater-than)
-16. [--nickname](your-pokemon.md#nickname-less-than-nickname-greater-than)
-17. [--pentuple](your-pokemon.md#pentuple-less-than-integer-greater-than)
-18. [--quadruple](your-pokemon.md#quadruple-less-than-integer-greater-than)
-19. [--region](your-pokemon.md#region-less-than-region-greater-than)
-20. [--shiny](your-pokemon.md#shiny)
-21. [--skip](your-pokemon.md#skip-less-than-integer-greater-than)
-22. [--spatkiv](your-pokemon.md#spatkiv-less-than-integer-greater-than)
-23. [--spdefiv](your-pokemon.md#spdefiv-less-than-integer-greater-than)
-24. [--spdiv](your-pokemon.md#spdiv-less-than-integer-greater-than)
-25. [--triple](your-pokemon.md#triple-less-than-integer-greater-than)
-26. [--type](your-pokemon.md#type-less-than-type-greater-than)
-27. [--ub](your-pokemon.md#ub)
+1. [--alolan](viewing-your-pokemon.md#alolan)
+2. [--atkiv](viewing-your-pokemon.md#atkiv-less-than-integer-greater-than)
+3. [--defiv](viewing-your-pokemon.md#defiv-less-than-integer-greater-than)
+4. [--embedcolor](viewing-your-pokemon.md#embedcolor)
+5. [--event](viewing-your-pokemon.md#event)
+6. [--galarian](viewing-your-pokemon.md#galarian)
+7. [--hextuple](viewing-your-pokemon.md#hextuple-less-than-integer-greater-than)
+8. [--hpiv](viewing-your-pokemon.md#hpiv-less-than-integer-greater-than)
+9. [--iv](viewing-your-pokemon.md#iv-less-than-integer-decimal-greater-than)
+10. [--legendary](viewing-your-pokemon.md#legendary)
+11. [--level](viewing-your-pokemon.md#level-less-than-integer-greater-than)
+12. [--limit](viewing-your-pokemon.md#limit-less-than-integer-greater-than)
+13. [--mega](viewing-your-pokemon.md#mega)
+14. [--mythical](viewing-your-pokemon.md#mythical)
+15. [--name](viewing-your-pokemon.md#name-less-than-name-greater-than)
+16. [--nickname](viewing-your-pokemon.md#nickname-less-than-nickname-greater-than)
+17. [--pentuple](viewing-your-pokemon.md#pentuple-less-than-integer-greater-than)
+18. [--quadruple](viewing-your-pokemon.md#quadruple-less-than-integer-greater-than)
+19. [--region](viewing-your-pokemon.md#region-less-than-region-greater-than)
+20. [--shiny](viewing-your-pokemon.md#shiny)
+21. [--skip](viewing-your-pokemon.md#skip-less-than-integer-greater-than)
+22. [--spatkiv](viewing-your-pokemon.md#spatkiv-less-than-integer-greater-than)
+23. [--spdefiv](viewing-your-pokemon.md#spdefiv-less-than-integer-greater-than)
+24. [--spdiv](viewing-your-pokemon.md#spdiv-less-than-integer-greater-than)
+25. [--triple](viewing-your-pokemon.md#triple-less-than-integer-greater-than)
+26. [--type](viewing-your-pokemon.md#type-less-than-type-greater-than)
+27. [--ub](viewing-your-pokemon.md#ub)
 
 </details>

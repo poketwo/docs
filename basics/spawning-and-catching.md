@@ -39,9 +39,9 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 2. `@​Pokétwo#8236 [hint|h]` - To get a [hint ](spawning-and-catching.md#pokemon-hints)for the name of the pokémon currently present in the channel
 3. `@​Pokétwo#8236 togglemention` - To stop the bot from mentioning you whenever you catch pokémon
 4. `@​Pokétwo#8236 profile` - To view your pokétwo profile
-5. `@​Pokétwo#8236 shop [page_number]` - To view shop and its items at specific pages
+5. `@​Pokétwo#8236 shop [page_number]` - To view the shop and its items on specific pages
 6. `@​Pokétwo#8236 buy <item>` - To buy an item from the shop
-7. `@​Pokétwo#8236 [shinyhunt|sh] <pokémon-name>` - To start [shinyhunting](spawning-and-catching.md#shiny-hunting) a pokémon. WIll discard current streak after confirmation.
+7. `@​Pokétwo#8236 [shinyhunt|sh] <pokémon-name>` - To start [shinyhunting](spawning-and-catching.md#shiny-hunting) a pokémon. Will discard the current streak after confirmation.
 8. `@​Pokétwo#8236 [pokedex|d] [pokémon-name]` - To view the pokédex of a pokémon
 9. `@​Pokétwo#8236 buy incense` - To buy an [incense](spawning-and-catching.md#incenses) **in the current channel**
 10. `@​Pokétwo#8236 stopincense` - To <mark style="color:red;">**PERMANENTLY**</mark> stop an incense active in the current channel
@@ -49,28 +49,28 @@ This site is an early **work in progress**. Many pages may be missing or incompl
 
 ### Spawning Pokémon
 
-Pokémon spawning is based on the activity of a server. Messages sent by **non-bot** users count towards a spawn criterion and spawns a pokémon when met.&#x20;
+Pokémon spawning is based on the activity of a server. Messages sent by **non-bot** users count towards a spawn criterion and spawn a pokémon when met.&#x20;
 
 Messages sent by 2 or more users count towards that criterion faster, so inviting Pokétwo to a server with friends who converse naturally is a great place to start. Otherwise, it becomes cumbersome to manually send messages in order for spawns to occur.
 
 {% hint style="danger" %}
-Auto-spammers that spam to trigger spawns, Auto-catchers that automatically catch spawned pokémon and other automated activities via selfbotting, made in order to gain an unfair advantage, are strictly prohibited by both Discord and Pokétwo and are suspendable offences. Read [Pokétwo's Terms of Service](https://poketwo.net/terms) along with [Discord's Terms of Service](https://discord.com/terms) in order to learn more about what we allow and what we don't.
+Auto-spammers that spam to trigger spawns, Auto-catchers that automatically catch spawned pokémon and other automated activities via selfbotting, made in order to gain an unfair advantage, are strictly prohibited by both Discord and Pokétwo and are suspendable offenses. Read [Pokétwo's Terms of Service](https://poketwo.net/terms) along with [Discord's Terms of Service](https://discord.com/terms) in order to learn more about what we allow and what we don't.
 {% endhint %}
 
 #### Spawn rates
 
-The conditions for optimal spawn rate of pokémon is as follows, under which there will be a spawn **every 24 messages**:
+The conditions for the optimal spawn rate of pokémon are as follows, under which there will be a spawn **every 24 messages**:
 
 * **When 1 user sends messages**
-  * Optimal rate of messages: Send a message every **1.5 seconds**
+  * The optimal rate of messages: Send a message every **1.5 seconds**
   * Time to spawn (at optimal message rate): **36 seconds**
 * **When 2 or more users send messages**&#x20;
-  * Optimal Rate of messages: Send a message, alternating between 2+ users, every **1 second**
+  * The optimal rate of messages: Send a message, alternating between 2+ users, every **1 second**
   * Time to spawn (at optimal message rate): **24 seconds**
 
 ### **Spawn chances**
 
-Different pokémon have different chances to spawn. There are pokémon that spawn very often and there are pokémon that spawn very rarely. The spawn chance of pokémon play an important role in determining its market value.
+Different pokémon have different chances to spawn. There are pokémon that spawn very often and there are pokémon that spawn very rarely. The spawn chance of a pokémon plays an important role in determining its market value.
 
 Here is a list of links you can visit in order to find up-to-date spawn chances of various pokémon and categories (and their catchable forms). They are all **ordered by chance (ascending)**:
 
@@ -127,13 +127,13 @@ You can make it so that the bot does not ping you when catching pokémon via the
 
 ### Catching rewards
 
-Various **badges** for your profile (`@​Pokétwo#8236 profile`) and **pokécoin** rewards can be earned by catching different number of pokémon.
+Various **badges** for your profile (`@​Pokétwo#8236 profile`) and **pokécoin** rewards can be earned by catching different numbers of pokémon.
 
 #### Quests
 
 Different quests can be completed to earn **badges** and **pokécoins**. Please refer to the following table for the pokécoin rewards.
 
-From each region, there is a quest to catch different set number of pokémon for respective amount of pokécoins. For detailed info, please visit our [quests.md](../intermediate-topics/quests.md "mention") page.
+From each region, there is a quest to catch different set numbers of pokémon for the respective amount of pokécoins. For detailed info, please visit our [quests.md](../intermediate-topics/quests.md "mention") page.
 
 | Milestone (per region) | Reward (pokécoins)                   |
 | ---------------------- | ------------------------------------ |
@@ -162,7 +162,7 @@ If you catch multiple of the same pokémon, you can earn pokécoins at certain m
 
 If you don't know a Pokémon's name, or you just don't remember what it was called, you can receive hints to guess it.
 
-To receive hints for a Pokémon's name, the command is `@​Pokétwo#8236 [hint|h]`. This will show a few letters of the Pokémon's name, which can help you to guess the name.
+To receive hints about a Pokémon's name, the command is `@​Pokétwo#8236 [hint|h]`. This will show a few letters of the Pokémon's name, which can help you to guess the name.
 
 For example:
 
@@ -231,7 +231,7 @@ $$\approx0.059$$ %
 $$\approx0.06$$ %
 
 {% hint style="warning" %}
-Deriving from this formula, there is a 100% chance of shiny at around 823,543,225 streak (570,545,773 with Shiny Charm). This big number may look scary, but keep in mind that this number is purely mathematical and in a realistic situation you will have caught the shiny well before ever getting even remotely close to this number.
+Deriving from this formula, there is a 100% chance of shiny at around 823,543,225 streak (570,545,773 with Shiny Charm). This big number may look scary, but keep in mind that this number is purely mathematical, and in a realistic situation, you will have caught the shiny well before ever getting even remotely close to this number.
 {% endhint %}
 
 {% hint style="info" %}
@@ -248,7 +248,7 @@ As an example, let's say you want to shiny hunt **Alolan Vulpix**. After startin
 
 #### **Catching other shinies while hunting**
 
-You can always catch any shiny and their chance will not be affected by your shiny streak, nor will you streak break if you catch a shiny of a different pokémon, the chance of which is `1/4096` or `~0.0244%` and `1/3413.3` or `~0.029%` with Shiny Charm.
+You can always catch any shiny and their chance will not be affected by your shiny streak, nor will your streak break if you catch a shiny of a different pokémon, the chance of which is `1/4096` or `~0.0244%` and `1/3413.3` or `~0.029%` with Shiny Charm.
 
 ### Alternate Pokémon names
 
@@ -268,14 +268,14 @@ An incense spawns pokémon every **20 seconds** for **1 hour**. In total, there 
 
 #### Steps for purchasing an incense
 
-* You must either have a role named **Incense** (not case-sensitive) or have **Administration**/**Owner** permissions in the server in order to purchase an incense.
-* Incenses cost **50 shards** (10,000 pokécoins). You must have atleast 50 shards in order to purchase an incense, having 10,000 pokécoins will not count. \
+* You must either have a role named **Incense** (not case-sensitive) or have **Administration**/**Owner** permissions in the server to purchase an incense.
+* Incenses cost **50 shards** (10,000 pokécoins). You must have at least 50 shards in order to purchase an incense, having 10,000 pokécoins will not count. \
   To buy shards, do `@​Pokétwo#8236 buy shard 50`.
 * Go to the channel in which you want to buy the incense.
 * Use the command `@​Pokétwo#8236 buy incense` .
 * Press the <mark style="background-color:green;">**Confirm**</mark> button. If you wish to cancel, press the <mark style="background-color:red;">**Cancel**</mark> button.
 * The incense will now begin to spawn. At any point in the incense, if you wish to <mark style="color:red;">**PERMANENTLY**</mark> stop the incense, you can do so by using the `@​Pokétwo#8236 stopincense` command and pressing <mark style="background-color:green;">**Confirm**</mark>.
-* You can do more than one incense at once, but in different channels. **You can not stack incenses.**
+* You can do more than one incense at once but in different channels. **You can not stack incenses.**
 
 ### Setting spawn channels
 

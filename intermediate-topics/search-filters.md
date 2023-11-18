@@ -13,11 +13,10 @@ description: >-
 
 ### Contents
 
-1. [#contents](search-filters.md#contents "mention")
-2. [#introduction](search-filters.md#introduction "mention")
-3. [#supported-commands](search-filters.md#supported-commands "mention")
-4. [#naming-system-of-filters](search-filters.md#naming-system-of-filters "mention")
-5. [#usage-of-filters](search-filters.md#usage-of-filters "mention")
+1. [#introduction](search-filters.md#introduction "mention")
+2. [#supported-commands](search-filters.md#supported-commands "mention")
+3. [#naming-system-of-filters](search-filters.md#naming-system-of-filters "mention")
+4. [#usage-of-filters](search-filters.md#usage-of-filters "mention")
 
 <details>
 
@@ -1467,9 +1466,7 @@ p!pokemon --level = 25
 
 #### --mega
 
-> Filter for pokémon that are in their mega form. (Transformed by purchasing a Mega evolution for your pokémon from **p!shop 6**)
-
-> Filter for pokémon that are in their mega form. (Transformed by purchasing a Mega evolution for your pokémon from **p!shop 6**)
+> Filter for pokémon that are in their mega form. (Transformed by purchasing a Mega Evolution for your pokémon from **p!shop 6**). Learn more about them in [#mega-evolutions](../basics/evolutions-and-forms.md#mega-evolutions "mention").
 
 <details>
 

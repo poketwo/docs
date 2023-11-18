@@ -16,13 +16,13 @@ Different types of events include:
 
 These events will entail the community catching as many Pokémon as they can to receive as many rewards as possible. In these events, different boxes will be dropped, such as the one below, which can be opened by the user whenever they please. Usually, we give another few days after the event has ended for users to open their boxes, however if the user does not open their boxes in the time given, they will be lost.
 
-![Christmas event, 2021](<../.gitbook/assets/image (13) (1).png>) ![Box being dropped from a caught Pokémon](<../.gitbook/assets/image (1).png>)
+![Christmas event, 2021](<../.gitbook/assets/image (13) (1) (1).png>) ![Box being dropped from a caught Pokémon](<../.gitbook/assets/image (1) (1).png>)
 
 **-Spawn Events-**
 
 These events mean that the community have to catch as many Pokémon as they can to ensure they collect each of the special pokemon from that event.
 
-![Autumn Grotle being caught from the Autumn event, 2021](../.gitbook/assets/image.png)
+![Autumn Grotle being caught from the Autumn event, 2021](<../.gitbook/assets/image (58).png>)
 
 **-The Halloween Event, 2020-**\
 \
@@ -40,16 +40,16 @@ To answer simply, an embed is the different colored bar on the left side of Pok�
 You can use embed colors and change them (if you have one) using **p!embedcolor \<Pokémon ID> <#hex color>**. The 'embedcolor' part in the command can be shortened to 'ec'. So, for example, you can write **p!ec 23 #f34e06.**\
 _(For more information on how to use embed colors if you have one, go_ [_here_](search-filters.md)_)._
 
-![Changing an embed color example](<../.gitbook/assets/image (5) (1).png>)
+![Changing an embed color example](<../.gitbook/assets/image (5) (1) (1).png>)
 
-!['Embed' Pokémon example, with a green embed](<../.gitbook/assets/image (15) (1).png>)
+!['Embed' Pokémon example, with a green embed](<../.gitbook/assets/image (15) (1) (1).png>)
 
 **-The Very First Event-**
 
 This event was released before Pokétwo started getting popular. The event was an invite event where the community at that time had to invite as many people as possible to the Pokétwo Offical Server to earn the best rewards possible. Not expecting the bot to grow so much, there were only 10 Ash's Greninjas handed out, and some Costume Pikachus. Now the bot has grown, all of these Pokémon are extremely rare and worth millions of Pokécoins as they are so hard to find. None of these Pokémon spawn normally.&#x20;
 
 ![Ash's Greninja from Pokétwo's first event, 2020.
-(The '13 caught' are regular Greninjas).](<../.gitbook/assets/image (3) (1).png>)
+(The '13 caught' are regular Greninjas).](<../.gitbook/assets/image (3) (1) (1).png>)
 
 **-April Fools Day, 2020-**
 
