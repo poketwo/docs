@@ -282,6 +282,7 @@ In the official pokémon games, some pokémon need a certain level of friendship
 * <img src="../.gitbook/assets/image (41).png" alt="" data-size="line"> Eevee --> <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> Glaceon
 * <img src="../.gitbook/assets/image (98).png" alt="" data-size="line"> Alolan Vulpix --> <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> Alolan Ninetales
 * <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> Alolan Sandshrew --> <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> Alolan Sandslash
+* <img src="../.gitbook/assets/image (317).png" alt="" data-size="line"> Cetoddle --> <img src="../.gitbook/assets/image (318).png" alt="" data-size="line"> Cetitan
 
 #### <img src="../.gitbook/assets/725820040468758589.webp" alt="" data-size="line"> Shiny Stone
 
